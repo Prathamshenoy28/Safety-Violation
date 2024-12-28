@@ -1,0 +1,8890 @@
+[
+    {
+        "frame_number": 1,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            490,
+            164,
+            584,
+            347
+        ]
+    },
+    {
+        "frame_number": 2,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8600000143051147,
+        "bbox": [
+            492,
+            167,
+            586,
+            346
+        ]
+    },
+    {
+        "frame_number": 2,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.699999988079071,
+        "bbox": [
+            756,
+            3,
+            898,
+            140
+        ]
+    },
+    {
+        "frame_number": 3,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8700000047683716,
+        "bbox": [
+            492,
+            171,
+            586,
+            344
+        ]
+    },
+    {
+        "frame_number": 4,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8700000047683716,
+        "bbox": [
+            487,
+            171,
+            587,
+            348
+        ]
+    },
+    {
+        "frame_number": 5,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            482,
+            172,
+            589,
+            351
+        ]
+    },
+    {
+        "frame_number": 6,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            480,
+            175,
+            588,
+            351
+        ]
+    },
+    {
+        "frame_number": 7,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            480,
+            179,
+            588,
+            352
+        ]
+    },
+    {
+        "frame_number": 8,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8999999761581421,
+        "bbox": [
+            486,
+            179,
+            592,
+            351
+        ]
+    },
+    {
+        "frame_number": 9,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8999999761581421,
+        "bbox": [
+            485,
+            179,
+            590,
+            352
+        ]
+    },
+    {
+        "frame_number": 10,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            478,
+            177,
+            588,
+            353
+        ]
+    },
+    {
+        "frame_number": 11,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            471,
+            177,
+            590,
+            352
+        ]
+    },
+    {
+        "frame_number": 11,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.75,
+        "bbox": [
+            659,
+            44,
+            791,
+            148
+        ]
+    },
+    {
+        "frame_number": 12,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8999999761581421,
+        "bbox": [
+            473,
+            177,
+            596,
+            350
+        ]
+    },
+    {
+        "frame_number": 12,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.7099999785423279,
+        "bbox": [
+            646,
+            20,
+            788,
+            153
+        ]
+    },
+    {
+        "frame_number": 13,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            470,
+            177,
+            593,
+            350
+        ]
+    },
+    {
+        "frame_number": 14,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            469,
+            175,
+            592,
+            345
+        ]
+    },
+    {
+        "frame_number": 15,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            471,
+            168,
+            593,
+            333
+        ]
+    },
+    {
+        "frame_number": 16,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            472,
+            166,
+            591,
+            328
+        ]
+    },
+    {
+        "frame_number": 17,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8700000047683716,
+        "bbox": [
+            455,
+            166,
+            591,
+            328
+        ]
+    },
+    {
+        "frame_number": 18,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8700000047683716,
+        "bbox": [
+            454,
+            165,
+            591,
+            327
+        ]
+    },
+    {
+        "frame_number": 19,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8700000047683716,
+        "bbox": [
+            454,
+            164,
+            593,
+            325
+        ]
+    },
+    {
+        "frame_number": 20,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            453,
+            162,
+            589,
+            328
+        ]
+    },
+    {
+        "frame_number": 21,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            473,
+            157,
+            589,
+            331
+        ]
+    },
+    {
+        "frame_number": 22,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            476,
+            149,
+            589,
+            335
+        ]
+    },
+    {
+        "frame_number": 23,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8999999761581421,
+        "bbox": [
+            476,
+            141,
+            598,
+            335
+        ]
+    },
+    {
+        "frame_number": 24,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            460,
+            137,
+            599,
+            342
+        ]
+    },
+    {
+        "frame_number": 25,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            460,
+            137,
+            599,
+            341
+        ]
+    },
+    {
+        "frame_number": 25,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7300000190734863,
+        "bbox": [
+            666,
+            109,
+            822,
+            294
+        ]
+    },
+    {
+        "frame_number": 26,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            462,
+            132,
+            599,
+            341
+        ]
+    },
+    {
+        "frame_number": 26,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            666,
+            128,
+            813,
+            292
+        ]
+    },
+    {
+        "frame_number": 27,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9200000166893005,
+        "bbox": [
+            665,
+            119,
+            811,
+            295
+        ]
+    },
+    {
+        "frame_number": 27,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9200000166893005,
+        "bbox": [
+            454,
+            126,
+            602,
+            343
+        ]
+    },
+    {
+        "frame_number": 27,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.699999988079071,
+        "bbox": [
+            378,
+            90,
+            501,
+            224
+        ]
+    },
+    {
+        "frame_number": 28,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9200000166893005,
+        "bbox": [
+            458,
+            125,
+            602,
+            345
+        ]
+    },
+    {
+        "frame_number": 28,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8199999928474426,
+        "bbox": [
+            666,
+            107,
+            808,
+            286
+        ]
+    },
+    {
+        "frame_number": 29,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8999999761581421,
+        "bbox": [
+            447,
+            122,
+            602,
+            339
+        ]
+    },
+    {
+        "frame_number": 29,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.75,
+        "bbox": [
+            378,
+            81,
+            502,
+            213
+        ]
+    },
+    {
+        "frame_number": 29,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.699999988079071,
+        "bbox": [
+            665,
+            107,
+            859,
+            354
+        ]
+    },
+    {
+        "frame_number": 30,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9200000166893005,
+        "bbox": [
+            450,
+            121,
+            600,
+            337
+        ]
+    },
+    {
+        "frame_number": 30,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7300000190734863,
+        "bbox": [
+            665,
+            94,
+            849,
+            357
+        ]
+    },
+    {
+        "frame_number": 31,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8700000047683716,
+        "bbox": [
+            440,
+            115,
+            592,
+            337
+        ]
+    },
+    {
+        "frame_number": 31,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.75,
+        "bbox": [
+            673,
+            78,
+            832,
+            340
+        ]
+    },
+    {
+        "frame_number": 32,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            434,
+            107,
+            592,
+            333
+        ]
+    },
+    {
+        "frame_number": 33,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            426,
+            107,
+            585,
+            316
+        ]
+    },
+    {
+        "frame_number": 33,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.7200000286102295,
+        "bbox": [
+            376,
+            52,
+            489,
+            186
+        ]
+    },
+    {
+        "frame_number": 34,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            409,
+            104,
+            577,
+            302
+        ]
+    },
+    {
+        "frame_number": 34,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.800000011920929,
+        "bbox": [
+            680,
+            58,
+            849,
+            332
+        ]
+    },
+    {
+        "frame_number": 34,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.7799999713897705,
+        "bbox": [
+            369,
+            44,
+            489,
+            180
+        ]
+    },
+    {
+        "frame_number": 35,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            407,
+            102,
+            569,
+            298
+        ]
+    },
+    {
+        "frame_number": 35,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8299999833106995,
+        "bbox": [
+            690,
+            47,
+            861,
+            320
+        ]
+    },
+    {
+        "frame_number": 35,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.8100000023841858,
+        "bbox": [
+            363,
+            38,
+            481,
+            175
+        ]
+    },
+    {
+        "frame_number": 36,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            395,
+            98,
+            564,
+            303
+        ]
+    },
+    {
+        "frame_number": 36,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.8199999928474426,
+        "bbox": [
+            361,
+            35,
+            473,
+            165
+        ]
+    },
+    {
+        "frame_number": 36,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.800000011920929,
+        "bbox": [
+            699,
+            46,
+            871,
+            320
+        ]
+    },
+    {
+        "frame_number": 37,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            379,
+            102,
+            554,
+            319
+        ]
+    },
+    {
+        "frame_number": 37,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            708,
+            42,
+            893,
+            318
+        ]
+    },
+    {
+        "frame_number": 37,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.7900000214576721,
+        "bbox": [
+            350,
+            36,
+            469,
+            158
+        ]
+    },
+    {
+        "frame_number": 38,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            373,
+            105,
+            552,
+            326
+        ]
+    },
+    {
+        "frame_number": 38,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8600000143051147,
+        "bbox": [
+            716,
+            39,
+            912,
+            318
+        ]
+    },
+    {
+        "frame_number": 38,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.800000011920929,
+        "bbox": [
+            344,
+            34,
+            460,
+            153
+        ]
+    },
+    {
+        "frame_number": 39,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9200000166893005,
+        "bbox": [
+            375,
+            109,
+            546,
+            327
+        ]
+    },
+    {
+        "frame_number": 39,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8600000143051147,
+        "bbox": [
+            725,
+            29,
+            928,
+            321
+        ]
+    },
+    {
+        "frame_number": 39,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.7799999713897705,
+        "bbox": [
+            338,
+            29,
+            455,
+            143
+        ]
+    },
+    {
+        "frame_number": 40,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            367,
+            103,
+            545,
+            321
+        ]
+    },
+    {
+        "frame_number": 40,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8600000143051147,
+        "bbox": [
+            735,
+            27,
+            925,
+            319
+        ]
+    },
+    {
+        "frame_number": 40,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.800000011920929,
+        "bbox": [
+            331,
+            27,
+            445,
+            141
+        ]
+    },
+    {
+        "frame_number": 41,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8999999761581421,
+        "bbox": [
+            364,
+            98,
+            540,
+            320
+        ]
+    },
+    {
+        "frame_number": 41,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8299999833106995,
+        "bbox": [
+            730,
+            22,
+            942,
+            319
+        ]
+    },
+    {
+        "frame_number": 41,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.800000011920929,
+        "bbox": [
+            327,
+            23,
+            436,
+            138
+        ]
+    },
+    {
+        "frame_number": 42,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            352,
+            96,
+            537,
+            325
+        ]
+    },
+    {
+        "frame_number": 42,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            748,
+            28,
+            932,
+            323
+        ]
+    },
+    {
+        "frame_number": 42,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.8399999737739563,
+        "bbox": [
+            321,
+            14,
+            438,
+            133
+        ]
+    },
+    {
+        "frame_number": 43,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            761,
+            26,
+            946,
+            321
+        ]
+    },
+    {
+        "frame_number": 43,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8600000143051147,
+        "bbox": [
+            337,
+            94,
+            531,
+            327
+        ]
+    },
+    {
+        "frame_number": 43,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.8100000023841858,
+        "bbox": [
+            314,
+            8,
+            432,
+            122
+        ]
+    },
+    {
+        "frame_number": 44,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            332,
+            93,
+            524,
+            308
+        ]
+    },
+    {
+        "frame_number": 44,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8700000047683716,
+        "bbox": [
+            763,
+            26,
+            949,
+            320
+        ]
+    },
+    {
+        "frame_number": 44,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.7599999904632568,
+        "bbox": [
+            311,
+            3,
+            428,
+            117
+        ]
+    },
+    {
+        "frame_number": 45,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8999999761581421,
+        "bbox": [
+            326,
+            93,
+            519,
+            316
+        ]
+    },
+    {
+        "frame_number": 45,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7699999809265137,
+        "bbox": [
+            706,
+            18,
+            941,
+            316
+        ]
+    },
+    {
+        "frame_number": 45,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.7599999904632568,
+        "bbox": [
+            311,
+            1,
+            429,
+            104
+        ]
+    },
+    {
+        "frame_number": 46,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            323,
+            94,
+            515,
+            330
+        ]
+    },
+    {
+        "frame_number": 46,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            672,
+            10,
+            944,
+            318
+        ]
+    },
+    {
+        "frame_number": 47,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            319,
+            96,
+            506,
+            333
+        ]
+    },
+    {
+        "frame_number": 47,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            677,
+            2,
+            947,
+            311
+        ]
+    },
+    {
+        "frame_number": 48,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8999999761581421,
+        "bbox": [
+            316,
+            99,
+            498,
+            331
+        ]
+    },
+    {
+        "frame_number": 48,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8399999737739563,
+        "bbox": [
+            700,
+            2,
+            948,
+            298
+        ]
+    },
+    {
+        "frame_number": 49,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8999999761581421,
+        "bbox": [
+            313,
+            98,
+            492,
+            324
+        ]
+    },
+    {
+        "frame_number": 49,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            709,
+            1,
+            943,
+            288
+        ]
+    },
+    {
+        "frame_number": 50,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8999999761581421,
+        "bbox": [
+            311,
+            95,
+            486,
+            326
+        ]
+    },
+    {
+        "frame_number": 50,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8399999737739563,
+        "bbox": [
+            703,
+            1,
+            951,
+            303
+        ]
+    },
+    {
+        "frame_number": 51,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8999999761581421,
+        "bbox": [
+            311,
+            90,
+            484,
+            347
+        ]
+    },
+    {
+        "frame_number": 51,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8600000143051147,
+        "bbox": [
+            696,
+            1,
+            940,
+            320
+        ]
+    },
+    {
+        "frame_number": 52,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            308,
+            87,
+            475,
+            334
+        ]
+    },
+    {
+        "frame_number": 52,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8600000143051147,
+        "bbox": [
+            707,
+            0,
+            933,
+            314
+        ]
+    },
+    {
+        "frame_number": 53,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            304,
+            80,
+            473,
+            334
+        ]
+    },
+    {
+        "frame_number": 53,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.75,
+        "bbox": [
+            712,
+            7,
+            932,
+            337
+        ]
+    },
+    {
+        "frame_number": 53,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7400000095367432,
+        "bbox": [
+            777,
+            18,
+            934,
+            329
+        ]
+    },
+    {
+        "frame_number": 54,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            302,
+            69,
+            474,
+            335
+        ]
+    },
+    {
+        "frame_number": 54,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            778,
+            46,
+            923,
+            328
+        ]
+    },
+    {
+        "frame_number": 55,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8999999761581421,
+        "bbox": [
+            300,
+            60,
+            470,
+            330
+        ]
+    },
+    {
+        "frame_number": 55,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            768,
+            51,
+            920,
+            328
+        ]
+    },
+    {
+        "frame_number": 56,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            292,
+            52,
+            476,
+            322
+        ]
+    },
+    {
+        "frame_number": 56,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8199999928474426,
+        "bbox": [
+            762,
+            38,
+            902,
+            332
+        ]
+    },
+    {
+        "frame_number": 56,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.7200000286102295,
+        "bbox": [
+            764,
+            0,
+            894,
+            55
+        ]
+    },
+    {
+        "frame_number": 57,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8999999761581421,
+        "bbox": [
+            286,
+            42,
+            479,
+            316
+        ]
+    },
+    {
+        "frame_number": 57,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8399999737739563,
+        "bbox": [
+            750,
+            51,
+            885,
+            335
+        ]
+    },
+    {
+        "frame_number": 58,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            280,
+            34,
+            476,
+            325
+        ]
+    },
+    {
+        "frame_number": 58,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7300000190734863,
+        "bbox": [
+            749,
+            56,
+            878,
+            334
+        ]
+    },
+    {
+        "frame_number": 58,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.7200000286102295,
+        "bbox": [
+            747,
+            2,
+            865,
+            73
+        ]
+    },
+    {
+        "frame_number": 59,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8700000047683716,
+        "bbox": [
+            268,
+            26,
+            472,
+            335
+        ]
+    },
+    {
+        "frame_number": 59,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.7699999809265137,
+        "bbox": [
+            741,
+            9,
+            864,
+            82
+        ]
+    },
+    {
+        "frame_number": 60,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8100000023841858,
+        "bbox": [
+            739,
+            73,
+            866,
+            343
+        ]
+    },
+    {
+        "frame_number": 60,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.8100000023841858,
+        "bbox": [
+            732,
+            17,
+            852,
+            84
+        ]
+    },
+    {
+        "frame_number": 60,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7799999713897705,
+        "bbox": [
+            264,
+            20,
+            465,
+            325
+        ]
+    },
+    {
+        "frame_number": 61,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            260,
+            13,
+            463,
+            311
+        ]
+    },
+    {
+        "frame_number": 61,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8100000023841858,
+        "bbox": [
+            733,
+            75,
+            854,
+            332
+        ]
+    },
+    {
+        "frame_number": 61,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.800000011920929,
+        "bbox": [
+            722,
+            22,
+            837,
+            84
+        ]
+    },
+    {
+        "frame_number": 62,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.800000011920929,
+        "bbox": [
+            249,
+            10,
+            464,
+            309
+        ]
+    },
+    {
+        "frame_number": 62,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7900000214576721,
+        "bbox": [
+            721,
+            79,
+            844,
+            337
+        ]
+    },
+    {
+        "frame_number": 62,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.7900000214576721,
+        "bbox": [
+            710,
+            26,
+            823,
+            85
+        ]
+    },
+    {
+        "frame_number": 63,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8199999928474426,
+        "bbox": [
+            712,
+            79,
+            842,
+            341
+        ]
+    },
+    {
+        "frame_number": 63,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7799999713897705,
+        "bbox": [
+            244,
+            5,
+            467,
+            280
+        ]
+    },
+    {
+        "frame_number": 63,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.7599999904632568,
+        "bbox": [
+            697,
+            29,
+            807,
+            94
+        ]
+    },
+    {
+        "frame_number": 64,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8399999737739563,
+        "bbox": [
+            703,
+            87,
+            843,
+            340
+        ]
+    },
+    {
+        "frame_number": 64,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.7699999809265137,
+        "bbox": [
+            687,
+            29,
+            800,
+            94
+        ]
+    },
+    {
+        "frame_number": 65,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.7799999713897705,
+        "bbox": [
+            685,
+            29,
+            781,
+            89
+        ]
+    },
+    {
+        "frame_number": 66,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8299999833106995,
+        "bbox": [
+            667,
+            86,
+            827,
+            333
+        ]
+    },
+    {
+        "frame_number": 66,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.7799999713897705,
+        "bbox": [
+            687,
+            28,
+            771,
+            84
+        ]
+    },
+    {
+        "frame_number": 66,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7200000286102295,
+        "bbox": [
+            196,
+            1,
+            433,
+            311
+        ]
+    },
+    {
+        "frame_number": 67,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            670,
+            90,
+            813,
+            330
+        ]
+    },
+    {
+        "frame_number": 68,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.75,
+        "bbox": [
+            664,
+            87,
+            802,
+            328
+        ]
+    },
+    {
+        "frame_number": 69,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8299999833106995,
+        "bbox": [
+            158,
+            0,
+            423,
+            301
+        ]
+    },
+    {
+        "frame_number": 70,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            160,
+            0,
+            401,
+            304
+        ]
+    },
+    {
+        "frame_number": 70,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8299999833106995,
+        "bbox": [
+            667,
+            106,
+            786,
+            323
+        ]
+    },
+    {
+        "frame_number": 71,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9200000166893005,
+        "bbox": [
+            147,
+            0,
+            382,
+            305
+        ]
+    },
+    {
+        "frame_number": 72,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8399999737739563,
+        "bbox": [
+            141,
+            0,
+            374,
+            289
+        ]
+    },
+    {
+        "frame_number": 72,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7799999713897705,
+        "bbox": [
+            655,
+            138,
+            754,
+            329
+        ]
+    },
+    {
+        "frame_number": 78,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            91,
+            0,
+            324,
+            269
+        ]
+    },
+    {
+        "frame_number": 78,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.75,
+        "bbox": [
+            508,
+            129,
+            595,
+            363
+        ]
+    },
+    {
+        "frame_number": 79,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            100,
+            0,
+            320,
+            254
+        ]
+    },
+    {
+        "frame_number": 79,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.75,
+        "bbox": [
+            505,
+            131,
+            591,
+            331
+        ]
+    },
+    {
+        "frame_number": 80,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            84,
+            0,
+            312,
+            254
+        ]
+    },
+    {
+        "frame_number": 81,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9200000166893005,
+        "bbox": [
+            89,
+            0,
+            309,
+            252
+        ]
+    },
+    {
+        "frame_number": 81,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8600000143051147,
+        "bbox": [
+            471,
+            127,
+            589,
+            386
+        ]
+    },
+    {
+        "frame_number": 82,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            94,
+            0,
+            307,
+            248
+        ]
+    },
+    {
+        "frame_number": 82,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            459,
+            124,
+            589,
+            344
+        ]
+    },
+    {
+        "frame_number": 83,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            452,
+            119,
+            578,
+            343
+        ]
+    },
+    {
+        "frame_number": 83,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8100000023841858,
+        "bbox": [
+            113,
+            0,
+            304,
+            245
+        ]
+    },
+    {
+        "frame_number": 84,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            434,
+            121,
+            568,
+            342
+        ]
+    },
+    {
+        "frame_number": 84,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8600000143051147,
+        "bbox": [
+            108,
+            0,
+            309,
+            239
+        ]
+    },
+    {
+        "frame_number": 85,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            101,
+            0,
+            318,
+            239
+        ]
+    },
+    {
+        "frame_number": 85,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8700000047683716,
+        "bbox": [
+            424,
+            119,
+            554,
+            338
+        ]
+    },
+    {
+        "frame_number": 86,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            105,
+            0,
+            327,
+            239
+        ]
+    },
+    {
+        "frame_number": 86,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8600000143051147,
+        "bbox": [
+            402,
+            116,
+            539,
+            336
+        ]
+    },
+    {
+        "frame_number": 87,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            119,
+            0,
+            325,
+            236
+        ]
+    },
+    {
+        "frame_number": 87,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8600000143051147,
+        "bbox": [
+            393,
+            116,
+            525,
+            334
+        ]
+    },
+    {
+        "frame_number": 88,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9200000166893005,
+        "bbox": [
+            115,
+            0,
+            331,
+            237
+        ]
+    },
+    {
+        "frame_number": 88,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            379,
+            115,
+            513,
+            332
+        ]
+    },
+    {
+        "frame_number": 89,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            119,
+            0,
+            337,
+            241
+        ]
+    },
+    {
+        "frame_number": 89,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            376,
+            123,
+            502,
+            336
+        ]
+    },
+    {
+        "frame_number": 90,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            116,
+            0,
+            338,
+            246
+        ]
+    },
+    {
+        "frame_number": 90,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7900000214576721,
+        "bbox": [
+            361,
+            121,
+            489,
+            337
+        ]
+    },
+    {
+        "frame_number": 91,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            116,
+            0,
+            346,
+            242
+        ]
+    },
+    {
+        "frame_number": 91,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8700000047683716,
+        "bbox": [
+            348,
+            122,
+            481,
+            338
+        ]
+    },
+    {
+        "frame_number": 92,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            344,
+            126,
+            471,
+            342
+        ]
+    },
+    {
+        "frame_number": 92,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            152,
+            0,
+            360,
+            243
+        ]
+    },
+    {
+        "frame_number": 93,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8700000047683716,
+        "bbox": [
+            159,
+            0,
+            376,
+            242
+        ]
+    },
+    {
+        "frame_number": 93,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8399999737739563,
+        "bbox": [
+            343,
+            131,
+            465,
+            343
+        ]
+    },
+    {
+        "frame_number": 94,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            157,
+            0,
+            384,
+            242
+        ]
+    },
+    {
+        "frame_number": 94,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7699999809265137,
+        "bbox": [
+            354,
+            137,
+            456,
+            338
+        ]
+    },
+    {
+        "frame_number": 95,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8600000143051147,
+        "bbox": [
+            174,
+            0,
+            399,
+            245
+        ]
+    },
+    {
+        "frame_number": 96,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8600000143051147,
+        "bbox": [
+            165,
+            0,
+            394,
+            239
+        ]
+    },
+    {
+        "frame_number": 97,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8999999761581421,
+        "bbox": [
+            158,
+            0,
+            401,
+            236
+        ]
+    },
+    {
+        "frame_number": 98,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8999999761581421,
+        "bbox": [
+            159,
+            0,
+            411,
+            233
+        ]
+    },
+    {
+        "frame_number": 99,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8399999737739563,
+        "bbox": [
+            161,
+            0,
+            399,
+            239
+        ]
+    },
+    {
+        "frame_number": 100,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8399999737739563,
+        "bbox": [
+            165,
+            0,
+            393,
+            239
+        ]
+    },
+    {
+        "frame_number": 101,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            164,
+            0,
+            395,
+            244
+        ]
+    },
+    {
+        "frame_number": 102,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8399999737739563,
+        "bbox": [
+            170,
+            0,
+            398,
+            246
+        ]
+    },
+    {
+        "frame_number": 103,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8399999737739563,
+        "bbox": [
+            167,
+            0,
+            396,
+            253
+        ]
+    },
+    {
+        "frame_number": 104,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            176,
+            0,
+            394,
+            256
+        ]
+    },
+    {
+        "frame_number": 105,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            168,
+            0,
+            391,
+            254
+        ]
+    },
+    {
+        "frame_number": 106,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8999999761581421,
+        "bbox": [
+            172,
+            0,
+            388,
+            260
+        ]
+    },
+    {
+        "frame_number": 107,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8999999761581421,
+        "bbox": [
+            173,
+            0,
+            387,
+            261
+        ]
+    },
+    {
+        "frame_number": 108,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8999999761581421,
+        "bbox": [
+            182,
+            0,
+            383,
+            248
+        ]
+    },
+    {
+        "frame_number": 109,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            181,
+            0,
+            383,
+            245
+        ]
+    },
+    {
+        "frame_number": 110,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            183,
+            0,
+            382,
+            240
+        ]
+    },
+    {
+        "frame_number": 111,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8299999833106995,
+        "bbox": [
+            182,
+            0,
+            377,
+            239
+        ]
+    },
+    {
+        "frame_number": 112,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8399999737739563,
+        "bbox": [
+            174,
+            0,
+            374,
+            232
+        ]
+    },
+    {
+        "frame_number": 113,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7900000214576721,
+        "bbox": [
+            166,
+            0,
+            369,
+            236
+        ]
+    },
+    {
+        "frame_number": 114,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8100000023841858,
+        "bbox": [
+            167,
+            0,
+            375,
+            236
+        ]
+    },
+    {
+        "frame_number": 115,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8700000047683716,
+        "bbox": [
+            172,
+            0,
+            378,
+            237
+        ]
+    },
+    {
+        "frame_number": 116,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            171,
+            0,
+            377,
+            241
+        ]
+    },
+    {
+        "frame_number": 117,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            166,
+            0,
+            381,
+            243
+        ]
+    },
+    {
+        "frame_number": 118,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8100000023841858,
+        "bbox": [
+            160,
+            0,
+            379,
+            246
+        ]
+    },
+    {
+        "frame_number": 119,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8600000143051147,
+        "bbox": [
+            158,
+            0,
+            385,
+            252
+        ]
+    },
+    {
+        "frame_number": 120,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            152,
+            0,
+            385,
+            247
+        ]
+    },
+    {
+        "frame_number": 121,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            157,
+            0,
+            385,
+            250
+        ]
+    },
+    {
+        "frame_number": 128,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8600000143051147,
+        "bbox": [
+            169,
+            0,
+            428,
+            241
+        ]
+    },
+    {
+        "frame_number": 129,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8999999761581421,
+        "bbox": [
+            161,
+            0,
+            436,
+            235
+        ]
+    },
+    {
+        "frame_number": 130,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            167,
+            0,
+            446,
+            245
+        ]
+    },
+    {
+        "frame_number": 131,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            193,
+            0,
+            456,
+            242
+        ]
+    },
+    {
+        "frame_number": 132,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9200000166893005,
+        "bbox": [
+            189,
+            0,
+            458,
+            236
+        ]
+    },
+    {
+        "frame_number": 133,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            199,
+            0,
+            463,
+            233
+        ]
+    },
+    {
+        "frame_number": 134,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8999999761581421,
+        "bbox": [
+            225,
+            0,
+            480,
+            232
+        ]
+    },
+    {
+        "frame_number": 135,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8700000047683716,
+        "bbox": [
+            219,
+            0,
+            514,
+            235
+        ]
+    },
+    {
+        "frame_number": 136,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            226,
+            0,
+            529,
+            237
+        ]
+    },
+    {
+        "frame_number": 137,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            254,
+            0,
+            550,
+            243
+        ]
+    },
+    {
+        "frame_number": 137,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8100000023841858,
+        "bbox": [
+            149,
+            140,
+            260,
+            342
+        ]
+    },
+    {
+        "frame_number": 138,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8399999737739563,
+        "bbox": [
+            287,
+            0,
+            564,
+            251
+        ]
+    },
+    {
+        "frame_number": 138,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8299999833106995,
+        "bbox": [
+            150,
+            143,
+            265,
+            339
+        ]
+    },
+    {
+        "frame_number": 139,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8700000047683716,
+        "bbox": [
+            281,
+            0,
+            573,
+            248
+        ]
+    },
+    {
+        "frame_number": 139,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            149,
+            142,
+            282,
+            334
+        ]
+    },
+    {
+        "frame_number": 140,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8999999761581421,
+        "bbox": [
+            301,
+            0,
+            590,
+            252
+        ]
+    },
+    {
+        "frame_number": 140,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            140,
+            144,
+            287,
+            337
+        ]
+    },
+    {
+        "frame_number": 141,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8999999761581421,
+        "bbox": [
+            319,
+            0,
+            603,
+            257
+        ]
+    },
+    {
+        "frame_number": 141,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8299999833106995,
+        "bbox": [
+            149,
+            145,
+            287,
+            337
+        ]
+    },
+    {
+        "frame_number": 142,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            342,
+            0,
+            617,
+            258
+        ]
+    },
+    {
+        "frame_number": 142,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8299999833106995,
+        "bbox": [
+            151,
+            145,
+            290,
+            337
+        ]
+    },
+    {
+        "frame_number": 143,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8999999761581421,
+        "bbox": [
+            358,
+            0,
+            638,
+            253
+        ]
+    },
+    {
+        "frame_number": 143,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            158,
+            150,
+            296,
+            337
+        ]
+    },
+    {
+        "frame_number": 144,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            374,
+            0,
+            658,
+            253
+        ]
+    },
+    {
+        "frame_number": 144,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            161,
+            155,
+            312,
+            338
+        ]
+    },
+    {
+        "frame_number": 145,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9300000071525574,
+        "bbox": [
+            382,
+            0,
+            653,
+            251
+        ]
+    },
+    {
+        "frame_number": 145,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            172,
+            159,
+            326,
+            342
+        ]
+    },
+    {
+        "frame_number": 146,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8999999761581421,
+        "bbox": [
+            397,
+            0,
+            684,
+            250
+        ]
+    },
+    {
+        "frame_number": 146,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            169,
+            162,
+            341,
+            352
+        ]
+    },
+    {
+        "frame_number": 147,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9200000166893005,
+        "bbox": [
+            410,
+            0,
+            681,
+            254
+        ]
+    },
+    {
+        "frame_number": 147,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            167,
+            163,
+            356,
+            350
+        ]
+    },
+    {
+        "frame_number": 148,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9200000166893005,
+        "bbox": [
+            418,
+            0,
+            677,
+            254
+        ]
+    },
+    {
+        "frame_number": 148,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            164,
+            168,
+            364,
+            354
+        ]
+    },
+    {
+        "frame_number": 149,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9200000166893005,
+        "bbox": [
+            431,
+            0,
+            682,
+            257
+        ]
+    },
+    {
+        "frame_number": 149,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8700000047683716,
+        "bbox": [
+            168,
+            173,
+            370,
+            354
+        ]
+    },
+    {
+        "frame_number": 150,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9300000071525574,
+        "bbox": [
+            438,
+            0,
+            685,
+            262
+        ]
+    },
+    {
+        "frame_number": 150,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            164,
+            173,
+            375,
+            356
+        ]
+    },
+    {
+        "frame_number": 151,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            444,
+            0,
+            709,
+            262
+        ]
+    },
+    {
+        "frame_number": 151,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            176,
+            177,
+            384,
+            356
+        ]
+    },
+    {
+        "frame_number": 152,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8399999737739563,
+        "bbox": [
+            166,
+            176,
+            381,
+            353
+        ]
+    },
+    {
+        "frame_number": 152,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.800000011920929,
+        "bbox": [
+            447,
+            0,
+            729,
+            269
+        ]
+    },
+    {
+        "frame_number": 153,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            457,
+            0,
+            731,
+            261
+        ]
+    },
+    {
+        "frame_number": 153,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8100000023841858,
+        "bbox": [
+            173,
+            177,
+            392,
+            358
+        ]
+    },
+    {
+        "frame_number": 154,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8999999761581421,
+        "bbox": [
+            461,
+            0,
+            737,
+            281
+        ]
+    },
+    {
+        "frame_number": 154,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7900000214576721,
+        "bbox": [
+            153,
+            172,
+            388,
+            355
+        ]
+    },
+    {
+        "frame_number": 155,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            475,
+            0,
+            717,
+            285
+        ]
+    },
+    {
+        "frame_number": 155,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8199999928474426,
+        "bbox": [
+            154,
+            168,
+            377,
+            353
+        ]
+    },
+    {
+        "frame_number": 156,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8399999737739563,
+        "bbox": [
+            473,
+            0,
+            750,
+            277
+        ]
+    },
+    {
+        "frame_number": 156,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8299999833106995,
+        "bbox": [
+            156,
+            165,
+            377,
+            350
+        ]
+    },
+    {
+        "frame_number": 157,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8999999761581421,
+        "bbox": [
+            498,
+            0,
+            760,
+            283
+        ]
+    },
+    {
+        "frame_number": 157,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8700000047683716,
+        "bbox": [
+            178,
+            165,
+            382,
+            348
+        ]
+    },
+    {
+        "frame_number": 158,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9200000166893005,
+        "bbox": [
+            506,
+            0,
+            776,
+            286
+        ]
+    },
+    {
+        "frame_number": 158,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8199999928474426,
+        "bbox": [
+            178,
+            163,
+            391,
+            350
+        ]
+    },
+    {
+        "frame_number": 159,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9300000071525574,
+        "bbox": [
+            514,
+            0,
+            787,
+            282
+        ]
+    },
+    {
+        "frame_number": 159,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7599999904632568,
+        "bbox": [
+            193,
+            162,
+            391,
+            351
+        ]
+    },
+    {
+        "frame_number": 160,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9300000071525574,
+        "bbox": [
+            528,
+            0,
+            795,
+            285
+        ]
+    },
+    {
+        "frame_number": 160,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7599999904632568,
+        "bbox": [
+            202,
+            159,
+            392,
+            339
+        ]
+    },
+    {
+        "frame_number": 161,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9200000166893005,
+        "bbox": [
+            541,
+            0,
+            808,
+            286
+        ]
+    },
+    {
+        "frame_number": 161,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7900000214576721,
+        "bbox": [
+            209,
+            152,
+            385,
+            329
+        ]
+    },
+    {
+        "frame_number": 162,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            552,
+            0,
+            819,
+            280
+        ]
+    },
+    {
+        "frame_number": 162,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8100000023841858,
+        "bbox": [
+            212,
+            149,
+            396,
+            336
+        ]
+    },
+    {
+        "frame_number": 163,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            224,
+            150,
+            402,
+            349
+        ]
+    },
+    {
+        "frame_number": 163,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8600000143051147,
+        "bbox": [
+            565,
+            0,
+            829,
+            277
+        ]
+    },
+    {
+        "frame_number": 164,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8999999761581421,
+        "bbox": [
+            589,
+            0,
+            845,
+            282
+        ]
+    },
+    {
+        "frame_number": 164,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8700000047683716,
+        "bbox": [
+            235,
+            151,
+            407,
+            344
+        ]
+    },
+    {
+        "frame_number": 165,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9200000166893005,
+        "bbox": [
+            604,
+            0,
+            857,
+            280
+        ]
+    },
+    {
+        "frame_number": 165,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8399999737739563,
+        "bbox": [
+            248,
+            147,
+            413,
+            345
+        ]
+    },
+    {
+        "frame_number": 166,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9300000071525574,
+        "bbox": [
+            616,
+            0,
+            864,
+            278
+        ]
+    },
+    {
+        "frame_number": 166,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8399999737739563,
+        "bbox": [
+            268,
+            149,
+            419,
+            339
+        ]
+    },
+    {
+        "frame_number": 167,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9200000166893005,
+        "bbox": [
+            630,
+            0,
+            868,
+            271
+        ]
+    },
+    {
+        "frame_number": 167,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            264,
+            143,
+            427,
+            338
+        ]
+    },
+    {
+        "frame_number": 168,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9300000071525574,
+        "bbox": [
+            635,
+            0,
+            869,
+            270
+        ]
+    },
+    {
+        "frame_number": 168,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            269,
+            136,
+            437,
+            339
+        ]
+    },
+    {
+        "frame_number": 169,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8999999761581421,
+        "bbox": [
+            645,
+            0,
+            872,
+            276
+        ]
+    },
+    {
+        "frame_number": 169,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            275,
+            141,
+            445,
+            336
+        ]
+    },
+    {
+        "frame_number": 170,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            281,
+            138,
+            447,
+            337
+        ]
+    },
+    {
+        "frame_number": 170,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            654,
+            0,
+            875,
+            270
+        ]
+    },
+    {
+        "frame_number": 171,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9200000166893005,
+        "bbox": [
+            657,
+            0,
+            879,
+            272
+        ]
+    },
+    {
+        "frame_number": 171,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            294,
+            134,
+            452,
+            340
+        ]
+    },
+    {
+        "frame_number": 172,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            658,
+            0,
+            882,
+            266
+        ]
+    },
+    {
+        "frame_number": 172,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            298,
+            135,
+            457,
+            344
+        ]
+    },
+    {
+        "frame_number": 173,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9200000166893005,
+        "bbox": [
+            657,
+            0,
+            888,
+            269
+        ]
+    },
+    {
+        "frame_number": 173,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            308,
+            135,
+            466,
+            344
+        ]
+    },
+    {
+        "frame_number": 174,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9200000166893005,
+        "bbox": [
+            662,
+            0,
+            887,
+            271
+        ]
+    },
+    {
+        "frame_number": 174,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8999999761581421,
+        "bbox": [
+            321,
+            137,
+            480,
+            348
+        ]
+    },
+    {
+        "frame_number": 175,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9200000166893005,
+        "bbox": [
+            669,
+            0,
+            887,
+            275
+        ]
+    },
+    {
+        "frame_number": 175,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            335,
+            138,
+            480,
+            348
+        ]
+    },
+    {
+        "frame_number": 176,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9200000166893005,
+        "bbox": [
+            674,
+            0,
+            888,
+            280
+        ]
+    },
+    {
+        "frame_number": 176,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8700000047683716,
+        "bbox": [
+            346,
+            142,
+            488,
+            348
+        ]
+    },
+    {
+        "frame_number": 177,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9200000166893005,
+        "bbox": [
+            673,
+            0,
+            889,
+            283
+        ]
+    },
+    {
+        "frame_number": 177,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8299999833106995,
+        "bbox": [
+            361,
+            144,
+            507,
+            348
+        ]
+    },
+    {
+        "frame_number": 178,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            676,
+            0,
+            889,
+            282
+        ]
+    },
+    {
+        "frame_number": 178,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7900000214576721,
+        "bbox": [
+            379,
+            147,
+            515,
+            347
+        ]
+    },
+    {
+        "frame_number": 179,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9300000071525574,
+        "bbox": [
+            680,
+            0,
+            886,
+            279
+        ]
+    },
+    {
+        "frame_number": 179,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8199999928474426,
+        "bbox": [
+            397,
+            152,
+            527,
+            347
+        ]
+    },
+    {
+        "frame_number": 180,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9300000071525574,
+        "bbox": [
+            673,
+            0,
+            886,
+            279
+        ]
+    },
+    {
+        "frame_number": 180,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            408,
+            155,
+            539,
+            350
+        ]
+    },
+    {
+        "frame_number": 181,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9300000071525574,
+        "bbox": [
+            673,
+            0,
+            881,
+            281
+        ]
+    },
+    {
+        "frame_number": 181,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8100000023841858,
+        "bbox": [
+            421,
+            153,
+            543,
+            347
+        ]
+    },
+    {
+        "frame_number": 182,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9300000071525574,
+        "bbox": [
+            672,
+            0,
+            879,
+            282
+        ]
+    },
+    {
+        "frame_number": 182,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            429,
+            153,
+            557,
+            344
+        ]
+    },
+    {
+        "frame_number": 183,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9300000071525574,
+        "bbox": [
+            671,
+            0,
+            878,
+            282
+        ]
+    },
+    {
+        "frame_number": 183,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8600000143051147,
+        "bbox": [
+            441,
+            148,
+            557,
+            338
+        ]
+    },
+    {
+        "frame_number": 184,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9200000166893005,
+        "bbox": [
+            669,
+            0,
+            877,
+            282
+        ]
+    },
+    {
+        "frame_number": 184,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7599999904632568,
+        "bbox": [
+            443,
+            145,
+            569,
+            340
+        ]
+    },
+    {
+        "frame_number": 185,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            670,
+            0,
+            874,
+            282
+        ]
+    },
+    {
+        "frame_number": 185,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7799999713897705,
+        "bbox": [
+            470,
+            145,
+            579,
+            340
+        ]
+    },
+    {
+        "frame_number": 186,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            665,
+            0,
+            873,
+            281
+        ]
+    },
+    {
+        "frame_number": 186,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.8100000023841858,
+        "bbox": [
+            523,
+            13,
+            586,
+            101
+        ]
+    },
+    {
+        "frame_number": 186,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7400000095367432,
+        "bbox": [
+            470,
+            146,
+            583,
+            337
+        ]
+    },
+    {
+        "frame_number": 187,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9200000166893005,
+        "bbox": [
+            663,
+            0,
+            872,
+            276
+        ]
+    },
+    {
+        "frame_number": 187,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8299999833106995,
+        "bbox": [
+            473,
+            142,
+            593,
+            345
+        ]
+    },
+    {
+        "frame_number": 187,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.7200000286102295,
+        "bbox": [
+            522,
+            11,
+            586,
+            106
+        ]
+    },
+    {
+        "frame_number": 188,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9200000166893005,
+        "bbox": [
+            663,
+            0,
+            871,
+            279
+        ]
+    },
+    {
+        "frame_number": 188,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8700000047683716,
+        "bbox": [
+            474,
+            137,
+            594,
+            348
+        ]
+    },
+    {
+        "frame_number": 189,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8999999761581421,
+        "bbox": [
+            663,
+            0,
+            870,
+            277
+        ]
+    },
+    {
+        "frame_number": 189,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            478,
+            144,
+            594,
+            354
+        ]
+    },
+    {
+        "frame_number": 190,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.800000011920929,
+        "bbox": [
+            487,
+            156,
+            593,
+            358
+        ]
+    },
+    {
+        "frame_number": 191,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            657,
+            0,
+            868,
+            280
+        ]
+    },
+    {
+        "frame_number": 192,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            654,
+            1,
+            868,
+            287
+        ]
+    },
+    {
+        "frame_number": 192,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7099999785423279,
+        "bbox": [
+            519,
+            182,
+            592,
+            375
+        ]
+    },
+    {
+        "frame_number": 193,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            642,
+            0,
+            860,
+            281
+        ]
+    },
+    {
+        "frame_number": 194,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8999999761581421,
+        "bbox": [
+            643,
+            0,
+            858,
+            281
+        ]
+    },
+    {
+        "frame_number": 195,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9200000166893005,
+        "bbox": [
+            640,
+            0,
+            856,
+            274
+        ]
+    },
+    {
+        "frame_number": 196,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9200000166893005,
+        "bbox": [
+            642,
+            0,
+            859,
+            270
+        ]
+    },
+    {
+        "frame_number": 197,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9200000166893005,
+        "bbox": [
+            640,
+            0,
+            857,
+            273
+        ]
+    },
+    {
+        "frame_number": 198,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9200000166893005,
+        "bbox": [
+            641,
+            0,
+            856,
+            272
+        ]
+    },
+    {
+        "frame_number": 199,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            640,
+            0,
+            857,
+            276
+        ]
+    },
+    {
+        "frame_number": 200,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            639,
+            0,
+            851,
+            280
+        ]
+    },
+    {
+        "frame_number": 201,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            638,
+            0,
+            853,
+            279
+        ]
+    },
+    {
+        "frame_number": 202,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            639,
+            0,
+            855,
+            278
+        ]
+    },
+    {
+        "frame_number": 203,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            640,
+            0,
+            856,
+            277
+        ]
+    },
+    {
+        "frame_number": 204,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8399999737739563,
+        "bbox": [
+            641,
+            0,
+            858,
+            274
+        ]
+    },
+    {
+        "frame_number": 205,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8700000047683716,
+        "bbox": [
+            645,
+            0,
+            858,
+            286
+        ]
+    },
+    {
+        "frame_number": 206,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8999999761581421,
+        "bbox": [
+            643,
+            0,
+            858,
+            286
+        ]
+    },
+    {
+        "frame_number": 207,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8999999761581421,
+        "bbox": [
+            647,
+            0,
+            858,
+            286
+        ]
+    },
+    {
+        "frame_number": 208,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8999999761581421,
+        "bbox": [
+            649,
+            0,
+            859,
+            285
+        ]
+    },
+    {
+        "frame_number": 209,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8999999761581421,
+        "bbox": [
+            651,
+            0,
+            858,
+            280
+        ]
+    },
+    {
+        "frame_number": 210,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8700000047683716,
+        "bbox": [
+            650,
+            0,
+            856,
+            280
+        ]
+    },
+    {
+        "frame_number": 211,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8399999737739563,
+        "bbox": [
+            649,
+            0,
+            856,
+            281
+        ]
+    },
+    {
+        "frame_number": 212,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            652,
+            0,
+            855,
+            280
+        ]
+    },
+    {
+        "frame_number": 213,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            653,
+            0,
+            856,
+            283
+        ]
+    },
+    {
+        "frame_number": 214,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8700000047683716,
+        "bbox": [
+            657,
+            1,
+            857,
+            274
+        ]
+    },
+    {
+        "frame_number": 215,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            662,
+            2,
+            855,
+            264
+        ]
+    },
+    {
+        "frame_number": 216,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8399999737739563,
+        "bbox": [
+            659,
+            1,
+            853,
+            276
+        ]
+    },
+    {
+        "frame_number": 217,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            663,
+            0,
+            853,
+            274
+        ]
+    },
+    {
+        "frame_number": 218,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.800000011920929,
+        "bbox": [
+            669,
+            0,
+            850,
+            283
+        ]
+    },
+    {
+        "frame_number": 219,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            665,
+            1,
+            850,
+            277
+        ]
+    },
+    {
+        "frame_number": 220,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9200000166893005,
+        "bbox": [
+            667,
+            1,
+            849,
+            274
+        ]
+    },
+    {
+        "frame_number": 221,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            662,
+            1,
+            849,
+            280
+        ]
+    },
+    {
+        "frame_number": 222,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8700000047683716,
+        "bbox": [
+            662,
+            1,
+            850,
+            270
+        ]
+    },
+    {
+        "frame_number": 223,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            662,
+            2,
+            851,
+            265
+        ]
+    },
+    {
+        "frame_number": 224,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            662,
+            2,
+            851,
+            263
+        ]
+    },
+    {
+        "frame_number": 225,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8299999833106995,
+        "bbox": [
+            661,
+            1,
+            851,
+            264
+        ]
+    },
+    {
+        "frame_number": 226,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8700000047683716,
+        "bbox": [
+            665,
+            1,
+            853,
+            265
+        ]
+    },
+    {
+        "frame_number": 227,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            666,
+            1,
+            853,
+            260
+        ]
+    },
+    {
+        "frame_number": 228,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8999999761581421,
+        "bbox": [
+            666,
+            0,
+            852,
+            261
+        ]
+    },
+    {
+        "frame_number": 229,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            663,
+            0,
+            849,
+            267
+        ]
+    },
+    {
+        "frame_number": 231,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            665,
+            0,
+            854,
+            259
+        ]
+    },
+    {
+        "frame_number": 232,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7799999713897705,
+        "bbox": [
+            662,
+            0,
+            860,
+            268
+        ]
+    },
+    {
+        "frame_number": 240,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            661,
+            0,
+            863,
+            266
+        ]
+    },
+    {
+        "frame_number": 241,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8700000047683716,
+        "bbox": [
+            663,
+            0,
+            865,
+            253
+        ]
+    },
+    {
+        "frame_number": 242,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            659,
+            0,
+            862,
+            252
+        ]
+    },
+    {
+        "frame_number": 243,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            651,
+            0,
+            864,
+            256
+        ]
+    },
+    {
+        "frame_number": 244,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8100000023841858,
+        "bbox": [
+            654,
+            0,
+            865,
+            264
+        ]
+    },
+    {
+        "frame_number": 245,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8700000047683716,
+        "bbox": [
+            653,
+            0,
+            865,
+            269
+        ]
+    },
+    {
+        "frame_number": 246,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            656,
+            0,
+            867,
+            259
+        ]
+    },
+    {
+        "frame_number": 247,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8299999833106995,
+        "bbox": [
+            657,
+            0,
+            868,
+            257
+        ]
+    },
+    {
+        "frame_number": 248,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            659,
+            0,
+            867,
+            261
+        ]
+    },
+    {
+        "frame_number": 249,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            657,
+            0,
+            867,
+            271
+        ]
+    },
+    {
+        "frame_number": 250,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8700000047683716,
+        "bbox": [
+            646,
+            0,
+            866,
+            261
+        ]
+    },
+    {
+        "frame_number": 251,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8600000143051147,
+        "bbox": [
+            656,
+            0,
+            866,
+            264
+        ]
+    },
+    {
+        "frame_number": 252,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8100000023841858,
+        "bbox": [
+            652,
+            0,
+            867,
+            264
+        ]
+    },
+    {
+        "frame_number": 253,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8399999737739563,
+        "bbox": [
+            652,
+            0,
+            868,
+            262
+        ]
+    },
+    {
+        "frame_number": 254,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            655,
+            0,
+            868,
+            257
+        ]
+    },
+    {
+        "frame_number": 255,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7699999809265137,
+        "bbox": [
+            650,
+            0,
+            868,
+            264
+        ]
+    },
+    {
+        "frame_number": 256,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8600000143051147,
+        "bbox": [
+            649,
+            0,
+            868,
+            269
+        ]
+    },
+    {
+        "frame_number": 257,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7599999904632568,
+        "bbox": [
+            643,
+            0,
+            867,
+            280
+        ]
+    },
+    {
+        "frame_number": 258,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7799999713897705,
+        "bbox": [
+            641,
+            0,
+            867,
+            268
+        ]
+    },
+    {
+        "frame_number": 259,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7400000095367432,
+        "bbox": [
+            640,
+            0,
+            867,
+            266
+        ]
+    },
+    {
+        "frame_number": 260,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7099999785423279,
+        "bbox": [
+            642,
+            0,
+            866,
+            262
+        ]
+    },
+    {
+        "frame_number": 261,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7699999809265137,
+        "bbox": [
+            646,
+            0,
+            866,
+            266
+        ]
+    },
+    {
+        "frame_number": 265,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7799999713897705,
+        "bbox": [
+            657,
+            0,
+            866,
+            259
+        ]
+    },
+    {
+        "frame_number": 267,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7699999809265137,
+        "bbox": [
+            653,
+            0,
+            872,
+            252
+        ]
+    },
+    {
+        "frame_number": 268,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7799999713897705,
+        "bbox": [
+            653,
+            0,
+            868,
+            249
+        ]
+    },
+    {
+        "frame_number": 275,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7300000190734863,
+        "bbox": [
+            642,
+            0,
+            862,
+            253
+        ]
+    },
+    {
+        "frame_number": 281,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7200000286102295,
+        "bbox": [
+            488,
+            190,
+            598,
+            372
+        ]
+    },
+    {
+        "frame_number": 282,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7599999904632568,
+        "bbox": [
+            491,
+            192,
+            600,
+            372
+        ]
+    },
+    {
+        "frame_number": 283,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8399999737739563,
+        "bbox": [
+            481,
+            191,
+            604,
+            377
+        ]
+    },
+    {
+        "frame_number": 283,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.75,
+        "bbox": [
+            531,
+            100,
+            598,
+            179
+        ]
+    },
+    {
+        "frame_number": 283,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7300000190734863,
+        "bbox": [
+            657,
+            0,
+            870,
+            250
+        ]
+    },
+    {
+        "frame_number": 284,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8700000047683716,
+        "bbox": [
+            480,
+            192,
+            609,
+            378
+        ]
+    },
+    {
+        "frame_number": 284,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.8399999737739563,
+        "bbox": [
+            526,
+            96,
+            601,
+            177
+        ]
+    },
+    {
+        "frame_number": 284,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8299999833106995,
+        "bbox": [
+            665,
+            0,
+            871,
+            250
+        ]
+    },
+    {
+        "frame_number": 285,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8600000143051147,
+        "bbox": [
+            480,
+            193,
+            622,
+            379
+        ]
+    },
+    {
+        "frame_number": 285,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.7900000214576721,
+        "bbox": [
+            522,
+            94,
+            601,
+            171
+        ]
+    },
+    {
+        "frame_number": 286,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            480,
+            194,
+            622,
+            379
+        ]
+    },
+    {
+        "frame_number": 286,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.800000011920929,
+        "bbox": [
+            519,
+            93,
+            601,
+            172
+        ]
+    },
+    {
+        "frame_number": 287,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            480,
+            198,
+            608,
+            372
+        ]
+    },
+    {
+        "frame_number": 287,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.8299999833106995,
+        "bbox": [
+            508,
+            91,
+            600,
+            175
+        ]
+    },
+    {
+        "frame_number": 288,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8999999761581421,
+        "bbox": [
+            479,
+            204,
+            603,
+            378
+        ]
+    },
+    {
+        "frame_number": 288,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            500,
+            90,
+            599,
+            177
+        ]
+    },
+    {
+        "frame_number": 288,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.75,
+        "bbox": [
+            668,
+            0,
+            875,
+            243
+        ]
+    },
+    {
+        "frame_number": 289,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.8100000023841858,
+        "bbox": [
+            494,
+            93,
+            589,
+            177
+        ]
+    },
+    {
+        "frame_number": 289,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7200000286102295,
+        "bbox": [
+            478,
+            192,
+            591,
+            371
+        ]
+    },
+    {
+        "frame_number": 290,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.800000011920929,
+        "bbox": [
+            468,
+            193,
+            586,
+            374
+        ]
+    },
+    {
+        "frame_number": 290,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.7200000286102295,
+        "bbox": [
+            490,
+            91,
+            578,
+            172
+        ]
+    },
+    {
+        "frame_number": 291,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.7799999713897705,
+        "bbox": [
+            480,
+            90,
+            581,
+            174
+        ]
+    },
+    {
+        "frame_number": 292,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.8199999928474426,
+        "bbox": [
+            474,
+            87,
+            568,
+            172
+        ]
+    },
+    {
+        "frame_number": 292,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7599999904632568,
+        "bbox": [
+            447,
+            191,
+            574,
+            374
+        ]
+    },
+    {
+        "frame_number": 293,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            448,
+            188,
+            568,
+            375
+        ]
+    },
+    {
+        "frame_number": 293,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.7699999809265137,
+        "bbox": [
+            470,
+            85,
+            561,
+            166
+        ]
+    },
+    {
+        "frame_number": 294,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8600000143051147,
+        "bbox": [
+            444,
+            185,
+            566,
+            372
+        ]
+    },
+    {
+        "frame_number": 294,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.8100000023841858,
+        "bbox": [
+            465,
+            82,
+            563,
+            164
+        ]
+    },
+    {
+        "frame_number": 295,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            465,
+            79,
+            564,
+            161
+        ]
+    },
+    {
+        "frame_number": 295,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8399999737739563,
+        "bbox": [
+            444,
+            181,
+            564,
+            366
+        ]
+    },
+    {
+        "frame_number": 296,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            464,
+            77,
+            560,
+            159
+        ]
+    },
+    {
+        "frame_number": 296,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.800000011920929,
+        "bbox": [
+            448,
+            178,
+            565,
+            359
+        ]
+    },
+    {
+        "frame_number": 297,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.8399999737739563,
+        "bbox": [
+            464,
+            75,
+            558,
+            152
+        ]
+    },
+    {
+        "frame_number": 297,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8100000023841858,
+        "bbox": [
+            441,
+            177,
+            567,
+            359
+        ]
+    },
+    {
+        "frame_number": 298,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8600000143051147,
+        "bbox": [
+            438,
+            182,
+            568,
+            371
+        ]
+    },
+    {
+        "frame_number": 298,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.8399999737739563,
+        "bbox": [
+            460,
+            72,
+            558,
+            150
+        ]
+    },
+    {
+        "frame_number": 299,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.8399999737739563,
+        "bbox": [
+            457,
+            70,
+            558,
+            148
+        ]
+    },
+    {
+        "frame_number": 299,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7699999809265137,
+        "bbox": [
+            675,
+            0,
+            869,
+            251
+        ]
+    },
+    {
+        "frame_number": 299,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7599999904632568,
+        "bbox": [
+            429,
+            174,
+            563,
+            369
+        ]
+    },
+    {
+        "frame_number": 300,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8700000047683716,
+        "bbox": [
+            420,
+            180,
+            557,
+            365
+        ]
+    },
+    {
+        "frame_number": 300,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.8299999833106995,
+        "bbox": [
+            455,
+            67,
+            561,
+            145
+        ]
+    },
+    {
+        "frame_number": 300,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7699999809265137,
+        "bbox": [
+            681,
+            0,
+            872,
+            252
+        ]
+    },
+    {
+        "frame_number": 301,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            418,
+            184,
+            552,
+            364
+        ]
+    },
+    {
+        "frame_number": 301,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.8199999928474426,
+        "bbox": [
+            454,
+            67,
+            561,
+            145
+        ]
+    },
+    {
+        "frame_number": 301,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7599999904632568,
+        "bbox": [
+            679,
+            0,
+            875,
+            247
+        ]
+    },
+    {
+        "frame_number": 302,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8700000047683716,
+        "bbox": [
+            419,
+            185,
+            549,
+            363
+        ]
+    },
+    {
+        "frame_number": 302,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.8199999928474426,
+        "bbox": [
+            454,
+            67,
+            563,
+            145
+        ]
+    },
+    {
+        "frame_number": 303,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8700000047683716,
+        "bbox": [
+            419,
+            182,
+            550,
+            365
+        ]
+    },
+    {
+        "frame_number": 303,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.8600000143051147,
+        "bbox": [
+            456,
+            68,
+            561,
+            146
+        ]
+    },
+    {
+        "frame_number": 303,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8100000023841858,
+        "bbox": [
+            677,
+            0,
+            879,
+            247
+        ]
+    },
+    {
+        "frame_number": 304,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            455,
+            68,
+            562,
+            150
+        ]
+    },
+    {
+        "frame_number": 304,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8600000143051147,
+        "bbox": [
+            416,
+            183,
+            545,
+            369
+        ]
+    },
+    {
+        "frame_number": 304,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8399999737739563,
+        "bbox": [
+            677,
+            0,
+            882,
+            246
+        ]
+    },
+    {
+        "frame_number": 305,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            454,
+            69,
+            561,
+            153
+        ]
+    },
+    {
+        "frame_number": 306,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            454,
+            70,
+            561,
+            155
+        ]
+    },
+    {
+        "frame_number": 306,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8299999833106995,
+        "bbox": [
+            684,
+            1,
+            888,
+            236
+        ]
+    },
+    {
+        "frame_number": 306,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7400000095367432,
+        "bbox": [
+            416,
+            182,
+            538,
+            364
+        ]
+    },
+    {
+        "frame_number": 307,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            408,
+            191,
+            541,
+            362
+        ]
+    },
+    {
+        "frame_number": 307,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.8399999737739563,
+        "bbox": [
+            448,
+            72,
+            564,
+            158
+        ]
+    },
+    {
+        "frame_number": 307,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8199999928474426,
+        "bbox": [
+            679,
+            0,
+            890,
+            237
+        ]
+    },
+    {
+        "frame_number": 308,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.8600000143051147,
+        "bbox": [
+            447,
+            74,
+            565,
+            160
+        ]
+    },
+    {
+        "frame_number": 308,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            391,
+            200,
+            539,
+            372
+        ]
+    },
+    {
+        "frame_number": 308,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7699999809265137,
+        "bbox": [
+            670,
+            0,
+            892,
+            238
+        ]
+    },
+    {
+        "frame_number": 309,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            445,
+            76,
+            566,
+            162
+        ]
+    },
+    {
+        "frame_number": 309,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8299999833106995,
+        "bbox": [
+            397,
+            202,
+            531,
+            366
+        ]
+    },
+    {
+        "frame_number": 310,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.8700000047683716,
+        "bbox": [
+            449,
+            78,
+            565,
+            164
+        ]
+    },
+    {
+        "frame_number": 310,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7300000190734863,
+        "bbox": [
+            674,
+            0,
+            898,
+            242
+        ]
+    },
+    {
+        "frame_number": 311,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.8700000047683716,
+        "bbox": [
+            456,
+            82,
+            566,
+            170
+        ]
+    },
+    {
+        "frame_number": 311,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8100000023841858,
+        "bbox": [
+            671,
+            0,
+            898,
+            242
+        ]
+    },
+    {
+        "frame_number": 312,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            457,
+            84,
+            568,
+            172
+        ]
+    },
+    {
+        "frame_number": 312,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8100000023841858,
+        "bbox": [
+            686,
+            0,
+            899,
+            245
+        ]
+    },
+    {
+        "frame_number": 312,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.800000011920929,
+        "bbox": [
+            406,
+            207,
+            537,
+            365
+        ]
+    },
+    {
+        "frame_number": 313,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.8700000047683716,
+        "bbox": [
+            447,
+            85,
+            570,
+            176
+        ]
+    },
+    {
+        "frame_number": 313,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.800000011920929,
+        "bbox": [
+            649,
+            0,
+            901,
+            249
+        ]
+    },
+    {
+        "frame_number": 314,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            454,
+            85,
+            568,
+            177
+        ]
+    },
+    {
+        "frame_number": 314,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8399999737739563,
+        "bbox": [
+            640,
+            0,
+            902,
+            251
+        ]
+    },
+    {
+        "frame_number": 314,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.75,
+        "bbox": [
+            407,
+            205,
+            544,
+            371
+        ]
+    },
+    {
+        "frame_number": 315,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            456,
+            85,
+            568,
+            178
+        ]
+    },
+    {
+        "frame_number": 315,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8600000143051147,
+        "bbox": [
+            629,
+            0,
+            900,
+            250
+        ]
+    },
+    {
+        "frame_number": 315,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7400000095367432,
+        "bbox": [
+            407,
+            204,
+            541,
+            377
+        ]
+    },
+    {
+        "frame_number": 316,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            460,
+            85,
+            567,
+            178
+        ]
+    },
+    {
+        "frame_number": 316,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8199999928474426,
+        "bbox": [
+            657,
+            0,
+            899,
+            253
+        ]
+    },
+    {
+        "frame_number": 317,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.8600000143051147,
+        "bbox": [
+            461,
+            84,
+            567,
+            178
+        ]
+    },
+    {
+        "frame_number": 317,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8399999737739563,
+        "bbox": [
+            679,
+            0,
+            894,
+            253
+        ]
+    },
+    {
+        "frame_number": 317,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.800000011920929,
+        "bbox": [
+            419,
+            197,
+            546,
+            381
+        ]
+    },
+    {
+        "frame_number": 318,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.8600000143051147,
+        "bbox": [
+            459,
+            83,
+            567,
+            180
+        ]
+    },
+    {
+        "frame_number": 318,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            664,
+            0,
+            889,
+            266
+        ]
+    },
+    {
+        "frame_number": 318,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8399999737739563,
+        "bbox": [
+            420,
+            193,
+            563,
+            380
+        ]
+    },
+    {
+        "frame_number": 319,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            456,
+            84,
+            569,
+            182
+        ]
+    },
+    {
+        "frame_number": 319,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8399999737739563,
+        "bbox": [
+            662,
+            0,
+            881,
+            271
+        ]
+    },
+    {
+        "frame_number": 319,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8399999737739563,
+        "bbox": [
+            418,
+            193,
+            573,
+            376
+        ]
+    },
+    {
+        "frame_number": 320,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8600000143051147,
+        "bbox": [
+            420,
+            192,
+            571,
+            377
+        ]
+    },
+    {
+        "frame_number": 320,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.8299999833106995,
+        "bbox": [
+            458,
+            86,
+            573,
+            189
+        ]
+    },
+    {
+        "frame_number": 320,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8199999928474426,
+        "bbox": [
+            617,
+            0,
+            868,
+            250
+        ]
+    },
+    {
+        "frame_number": 321,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.800000011920929,
+        "bbox": [
+            467,
+            89,
+            576,
+            193
+        ]
+    },
+    {
+        "frame_number": 321,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7799999713897705,
+        "bbox": [
+            641,
+            0,
+            865,
+            254
+        ]
+    },
+    {
+        "frame_number": 321,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7699999809265137,
+        "bbox": [
+            417,
+            198,
+            557,
+            370
+        ]
+    },
+    {
+        "frame_number": 322,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8399999737739563,
+        "bbox": [
+            647,
+            0,
+            863,
+            257
+        ]
+    },
+    {
+        "frame_number": 322,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.8299999833106995,
+        "bbox": [
+            468,
+            94,
+            578,
+            196
+        ]
+    },
+    {
+        "frame_number": 322,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7099999785423279,
+        "bbox": [
+            416,
+            197,
+            526,
+            366
+        ]
+    },
+    {
+        "frame_number": 323,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8299999833106995,
+        "bbox": [
+            577,
+            0,
+            862,
+            266
+        ]
+    },
+    {
+        "frame_number": 323,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.8299999833106995,
+        "bbox": [
+            482,
+            97,
+            579,
+            188
+        ]
+    },
+    {
+        "frame_number": 324,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            584,
+            0,
+            857,
+            274
+        ]
+    },
+    {
+        "frame_number": 324,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            416,
+            194,
+            571,
+            386
+        ]
+    },
+    {
+        "frame_number": 324,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.8199999928474426,
+        "bbox": [
+            484,
+            101,
+            578,
+            193
+        ]
+    },
+    {
+        "frame_number": 325,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            591,
+            0,
+            844,
+            273
+        ]
+    },
+    {
+        "frame_number": 325,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            419,
+            197,
+            575,
+            385
+        ]
+    },
+    {
+        "frame_number": 325,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.75,
+        "bbox": [
+            494,
+            104,
+            581,
+            189
+        ]
+    },
+    {
+        "frame_number": 326,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            547,
+            0,
+            830,
+            272
+        ]
+    },
+    {
+        "frame_number": 326,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8700000047683716,
+        "bbox": [
+            418,
+            198,
+            574,
+            385
+        ]
+    },
+    {
+        "frame_number": 326,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.699999988079071,
+        "bbox": [
+            489,
+            107,
+            583,
+            201
+        ]
+    },
+    {
+        "frame_number": 327,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            565,
+            0,
+            845,
+            281
+        ]
+    },
+    {
+        "frame_number": 327,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            417,
+            200,
+            574,
+            385
+        ]
+    },
+    {
+        "frame_number": 328,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8999999761581421,
+        "bbox": [
+            554,
+            0,
+            830,
+            263
+        ]
+    },
+    {
+        "frame_number": 328,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8100000023841858,
+        "bbox": [
+            420,
+            198,
+            558,
+            384
+        ]
+    },
+    {
+        "frame_number": 329,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8999999761581421,
+        "bbox": [
+            586,
+            0,
+            826,
+            249
+        ]
+    },
+    {
+        "frame_number": 330,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            581,
+            0,
+            816,
+            245
+        ]
+    },
+    {
+        "frame_number": 331,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8700000047683716,
+        "bbox": [
+            543,
+            0,
+            808,
+            241
+        ]
+    },
+    {
+        "frame_number": 331,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.800000011920929,
+        "bbox": [
+            432,
+            207,
+            548,
+            392
+        ]
+    },
+    {
+        "frame_number": 332,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8199999928474426,
+        "bbox": [
+            571,
+            0,
+            806,
+            239
+        ]
+    },
+    {
+        "frame_number": 332,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7799999713897705,
+        "bbox": [
+            436,
+            205,
+            547,
+            391
+        ]
+    },
+    {
+        "frame_number": 333,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8100000023841858,
+        "bbox": [
+            432,
+            205,
+            547,
+            394
+        ]
+    },
+    {
+        "frame_number": 333,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8100000023841858,
+        "bbox": [
+            557,
+            0,
+            806,
+            251
+        ]
+    },
+    {
+        "frame_number": 334,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            554,
+            0,
+            806,
+            260
+        ]
+    },
+    {
+        "frame_number": 334,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.800000011920929,
+        "bbox": [
+            434,
+            203,
+            545,
+            403
+        ]
+    },
+    {
+        "frame_number": 335,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            556,
+            0,
+            806,
+            247
+        ]
+    },
+    {
+        "frame_number": 335,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8299999833106995,
+        "bbox": [
+            430,
+            206,
+            546,
+            405
+        ]
+    },
+    {
+        "frame_number": 336,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8700000047683716,
+        "bbox": [
+            553,
+            0,
+            806,
+            238
+        ]
+    },
+    {
+        "frame_number": 336,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7699999809265137,
+        "bbox": [
+            436,
+            207,
+            546,
+            398
+        ]
+    },
+    {
+        "frame_number": 338,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7200000286102295,
+        "bbox": [
+            573,
+            0,
+            806,
+            253
+        ]
+    },
+    {
+        "frame_number": 339,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7400000095367432,
+        "bbox": [
+            569,
+            0,
+            805,
+            236
+        ]
+    },
+    {
+        "frame_number": 340,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            567,
+            0,
+            805,
+            231
+        ]
+    },
+    {
+        "frame_number": 341,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            567,
+            0,
+            806,
+            237
+        ]
+    },
+    {
+        "frame_number": 342,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9200000166893005,
+        "bbox": [
+            556,
+            0,
+            802,
+            245
+        ]
+    },
+    {
+        "frame_number": 342,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7099999785423279,
+        "bbox": [
+            446,
+            210,
+            544,
+            393
+        ]
+    },
+    {
+        "frame_number": 343,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            563,
+            0,
+            796,
+            244
+        ]
+    },
+    {
+        "frame_number": 344,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            548,
+            0,
+            788,
+            243
+        ]
+    },
+    {
+        "frame_number": 345,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8999999761581421,
+        "bbox": [
+            537,
+            0,
+            773,
+            250
+        ]
+    },
+    {
+        "frame_number": 346,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9200000166893005,
+        "bbox": [
+            525,
+            0,
+            763,
+            249
+        ]
+    },
+    {
+        "frame_number": 347,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            509,
+            0,
+            756,
+            250
+        ]
+    },
+    {
+        "frame_number": 348,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            497,
+            0,
+            741,
+            248
+        ]
+    },
+    {
+        "frame_number": 349,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8600000143051147,
+        "bbox": [
+            483,
+            0,
+            721,
+            261
+        ]
+    },
+    {
+        "frame_number": 350,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            470,
+            0,
+            703,
+            262
+        ]
+    },
+    {
+        "frame_number": 351,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7699999809265137,
+        "bbox": [
+            441,
+            0,
+            691,
+            268
+        ]
+    },
+    {
+        "frame_number": 354,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8299999833106995,
+        "bbox": [
+            403,
+            0,
+            634,
+            247
+        ]
+    },
+    {
+        "frame_number": 355,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.800000011920929,
+        "bbox": [
+            394,
+            0,
+            615,
+            231
+        ]
+    },
+    {
+        "frame_number": 356,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            379,
+            0,
+            603,
+            235
+        ]
+    },
+    {
+        "frame_number": 357,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8700000047683716,
+        "bbox": [
+            370,
+            0,
+            577,
+            232
+        ]
+    },
+    {
+        "frame_number": 358,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            355,
+            0,
+            570,
+            231
+        ]
+    },
+    {
+        "frame_number": 359,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            346,
+            0,
+            558,
+            237
+        ]
+    },
+    {
+        "frame_number": 360,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8999999761581421,
+        "bbox": [
+            329,
+            0,
+            543,
+            233
+        ]
+    },
+    {
+        "frame_number": 361,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            312,
+            0,
+            525,
+            251
+        ]
+    },
+    {
+        "frame_number": 362,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            297,
+            0,
+            518,
+            255
+        ]
+    },
+    {
+        "frame_number": 364,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8600000143051147,
+        "bbox": [
+            267,
+            0,
+            475,
+            255
+        ]
+    },
+    {
+        "frame_number": 365,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            256,
+            0,
+            454,
+            253
+        ]
+    },
+    {
+        "frame_number": 366,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            234,
+            0,
+            437,
+            276
+        ]
+    },
+    {
+        "frame_number": 367,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9200000166893005,
+        "bbox": [
+            222,
+            0,
+            423,
+            259
+        ]
+    },
+    {
+        "frame_number": 368,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            203,
+            0,
+            408,
+            263
+        ]
+    },
+    {
+        "frame_number": 369,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7300000190734863,
+        "bbox": [
+            191,
+            0,
+            411,
+            252
+        ]
+    },
+    {
+        "frame_number": 371,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7200000286102295,
+        "bbox": [
+            159,
+            0,
+            388,
+            250
+        ]
+    },
+    {
+        "frame_number": 373,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7300000190734863,
+        "bbox": [
+            509,
+            187,
+            592,
+            307
+        ]
+    },
+    {
+        "frame_number": 374,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.7099999785423279,
+        "bbox": [
+            533,
+            96,
+            601,
+            158
+        ]
+    },
+    {
+        "frame_number": 375,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.7599999904632568,
+        "bbox": [
+            530,
+            97,
+            599,
+            155
+        ]
+    },
+    {
+        "frame_number": 376,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.7099999785423279,
+        "bbox": [
+            527,
+            91,
+            598,
+            155
+        ]
+    },
+    {
+        "frame_number": 377,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.800000011920929,
+        "bbox": [
+            529,
+            87,
+            600,
+            152
+        ]
+    },
+    {
+        "frame_number": 382,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8700000047683716,
+        "bbox": [
+            4,
+            0,
+            247,
+            257
+        ]
+    },
+    {
+        "frame_number": 383,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            1,
+            0,
+            251,
+            264
+        ]
+    },
+    {
+        "frame_number": 384,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            1,
+            0,
+            249,
+            260
+        ]
+    },
+    {
+        "frame_number": 384,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7699999809265137,
+        "bbox": [
+            488,
+            167,
+            597,
+            317
+        ]
+    },
+    {
+        "frame_number": 385,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8100000023841858,
+        "bbox": [
+            0,
+            0,
+            230,
+            252
+        ]
+    },
+    {
+        "frame_number": 385,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7200000286102295,
+        "bbox": [
+            496,
+            167,
+            596,
+            312
+        ]
+    },
+    {
+        "frame_number": 386,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            0,
+            0,
+            218,
+            245
+        ]
+    },
+    {
+        "frame_number": 387,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8600000143051147,
+        "bbox": [
+            0,
+            0,
+            208,
+            245
+        ]
+    },
+    {
+        "frame_number": 387,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7300000190734863,
+        "bbox": [
+            503,
+            164,
+            596,
+            309
+        ]
+    },
+    {
+        "frame_number": 388,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8100000023841858,
+        "bbox": [
+            0,
+            0,
+            202,
+            242
+        ]
+    },
+    {
+        "frame_number": 388,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7799999713897705,
+        "bbox": [
+            497,
+            165,
+            595,
+            310
+        ]
+    },
+    {
+        "frame_number": 389,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.800000011920929,
+        "bbox": [
+            0,
+            0,
+            197,
+            244
+        ]
+    },
+    {
+        "frame_number": 389,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7900000214576721,
+        "bbox": [
+            502,
+            165,
+            594,
+            310
+        ]
+    },
+    {
+        "frame_number": 390,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            0,
+            0,
+            189,
+            240
+        ]
+    },
+    {
+        "frame_number": 390,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7900000214576721,
+        "bbox": [
+            497,
+            167,
+            593,
+            311
+        ]
+    },
+    {
+        "frame_number": 391,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            0,
+            0,
+            184,
+            247
+        ]
+    },
+    {
+        "frame_number": 391,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.800000011920929,
+        "bbox": [
+            500,
+            165,
+            595,
+            308
+        ]
+    },
+    {
+        "frame_number": 392,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.800000011920929,
+        "bbox": [
+            0,
+            0,
+            178,
+            246
+        ]
+    },
+    {
+        "frame_number": 392,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.75,
+        "bbox": [
+            503,
+            164,
+            596,
+            310
+        ]
+    },
+    {
+        "frame_number": 394,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7200000286102295,
+        "bbox": [
+            502,
+            162,
+            593,
+            312
+        ]
+    },
+    {
+        "frame_number": 395,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.75,
+        "bbox": [
+            502,
+            162,
+            594,
+            312
+        ]
+    },
+    {
+        "frame_number": 395,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7300000190734863,
+        "bbox": [
+            0,
+            0,
+            169,
+            228
+        ]
+    },
+    {
+        "frame_number": 396,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.75,
+        "bbox": [
+            504,
+            159,
+            594,
+            312
+        ]
+    },
+    {
+        "frame_number": 397,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7799999713897705,
+        "bbox": [
+            498,
+            166,
+            593,
+            327
+        ]
+    },
+    {
+        "frame_number": 398,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7699999809265137,
+        "bbox": [
+            496,
+            166,
+            593,
+            326
+        ]
+    },
+    {
+        "frame_number": 399,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7300000190734863,
+        "bbox": [
+            494,
+            165,
+            594,
+            321
+        ]
+    },
+    {
+        "frame_number": 400,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7799999713897705,
+        "bbox": [
+            498,
+            165,
+            596,
+            317
+        ]
+    },
+    {
+        "frame_number": 401,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7599999904632568,
+        "bbox": [
+            504,
+            167,
+            595,
+            315
+        ]
+    },
+    {
+        "frame_number": 403,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8600000143051147,
+        "bbox": [
+            0,
+            0,
+            191,
+            330
+        ]
+    },
+    {
+        "frame_number": 404,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8600000143051147,
+        "bbox": [
+            0,
+            0,
+            207,
+            332
+        ]
+    },
+    {
+        "frame_number": 405,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9200000166893005,
+        "bbox": [
+            0,
+            0,
+            202,
+            337
+        ]
+    },
+    {
+        "frame_number": 406,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7799999713897705,
+        "bbox": [
+            0,
+            0,
+            197,
+            222
+        ]
+    },
+    {
+        "frame_number": 407,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7900000214576721,
+        "bbox": [
+            0,
+            0,
+            192,
+            329
+        ]
+    },
+    {
+        "frame_number": 408,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8299999833106995,
+        "bbox": [
+            0,
+            0,
+            190,
+            222
+        ]
+    },
+    {
+        "frame_number": 409,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8600000143051147,
+        "bbox": [
+            0,
+            0,
+            196,
+            216
+        ]
+    },
+    {
+        "frame_number": 410,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8999999761581421,
+        "bbox": [
+            0,
+            0,
+            202,
+            226
+        ]
+    },
+    {
+        "frame_number": 411,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            0,
+            0,
+            221,
+            238
+        ]
+    },
+    {
+        "frame_number": 412,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            0,
+            0,
+            239,
+            237
+        ]
+    },
+    {
+        "frame_number": 413,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7900000214576721,
+        "bbox": [
+            0,
+            0,
+            253,
+            236
+        ]
+    },
+    {
+        "frame_number": 419,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.800000011920929,
+        "bbox": [
+            44,
+            0,
+            278,
+            238
+        ]
+    },
+    {
+        "frame_number": 420,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7799999713897705,
+        "bbox": [
+            56,
+            0,
+            278,
+            232
+        ]
+    },
+    {
+        "frame_number": 421,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.75,
+        "bbox": [
+            63,
+            0,
+            306,
+            234
+        ]
+    },
+    {
+        "frame_number": 431,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7799999713897705,
+        "bbox": [
+            184,
+            0,
+            416,
+            256
+        ]
+    },
+    {
+        "frame_number": 432,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7599999904632568,
+        "bbox": [
+            197,
+            0,
+            415,
+            235
+        ]
+    },
+    {
+        "frame_number": 441,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8299999833106995,
+        "bbox": [
+            392,
+            0,
+            580,
+            233
+        ]
+    },
+    {
+        "frame_number": 442,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7900000214576721,
+        "bbox": [
+            406,
+            0,
+            589,
+            261
+        ]
+    },
+    {
+        "frame_number": 443,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8399999737739563,
+        "bbox": [
+            418,
+            0,
+            590,
+            274
+        ]
+    },
+    {
+        "frame_number": 456,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7799999713897705,
+        "bbox": [
+            552,
+            0,
+            778,
+            319
+        ]
+    },
+    {
+        "frame_number": 457,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.75,
+        "bbox": [
+            570,
+            0,
+            791,
+            251
+        ]
+    },
+    {
+        "frame_number": 459,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8700000047683716,
+        "bbox": [
+            610,
+            0,
+            827,
+            216
+        ]
+    },
+    {
+        "frame_number": 460,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8199999928474426,
+        "bbox": [
+            623,
+            0,
+            876,
+            227
+        ]
+    },
+    {
+        "frame_number": 461,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8399999737739563,
+        "bbox": [
+            628,
+            0,
+            856,
+            224
+        ]
+    },
+    {
+        "frame_number": 462,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8199999928474426,
+        "bbox": [
+            621,
+            0,
+            866,
+            221
+        ]
+    },
+    {
+        "frame_number": 463,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            635,
+            0,
+            866,
+            223
+        ]
+    },
+    {
+        "frame_number": 464,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8299999833106995,
+        "bbox": [
+            644,
+            0,
+            880,
+            225
+        ]
+    },
+    {
+        "frame_number": 474,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7900000214576721,
+        "bbox": [
+            668,
+            0,
+            1090,
+            267
+        ]
+    },
+    {
+        "frame_number": 475,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.800000011920929,
+        "bbox": [
+            668,
+            0,
+            1047,
+            248
+        ]
+    },
+    {
+        "frame_number": 476,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8100000023841858,
+        "bbox": [
+            675,
+            0,
+            1047,
+            257
+        ]
+    },
+    {
+        "frame_number": 477,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8700000047683716,
+        "bbox": [
+            678,
+            0,
+            1061,
+            236
+        ]
+    },
+    {
+        "frame_number": 478,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8700000047683716,
+        "bbox": [
+            683,
+            0,
+            1061,
+            234
+        ]
+    },
+    {
+        "frame_number": 479,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8999999761581421,
+        "bbox": [
+            688,
+            0,
+            1062,
+            229
+        ]
+    },
+    {
+        "frame_number": 480,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8700000047683716,
+        "bbox": [
+            689,
+            0,
+            1076,
+            230
+        ]
+    },
+    {
+        "frame_number": 481,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8299999833106995,
+        "bbox": [
+            704,
+            0,
+            1086,
+            233
+        ]
+    },
+    {
+        "frame_number": 482,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8199999928474426,
+        "bbox": [
+            736,
+            0,
+            1091,
+            233
+        ]
+    },
+    {
+        "frame_number": 483,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8100000023841858,
+        "bbox": [
+            736,
+            0,
+            1102,
+            232
+        ]
+    },
+    {
+        "frame_number": 484,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            753,
+            0,
+            1111,
+            222
+        ]
+    },
+    {
+        "frame_number": 485,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8600000143051147,
+        "bbox": [
+            756,
+            0,
+            1114,
+            223
+        ]
+    },
+    {
+        "frame_number": 486,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8399999737739563,
+        "bbox": [
+            777,
+            0,
+            1127,
+            219
+        ]
+    },
+    {
+        "frame_number": 487,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            772,
+            0,
+            1126,
+            222
+        ]
+    },
+    {
+        "frame_number": 488,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            773,
+            0,
+            1140,
+            227
+        ]
+    },
+    {
+        "frame_number": 489,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8999999761581421,
+        "bbox": [
+            776,
+            0,
+            1132,
+            234
+        ]
+    },
+    {
+        "frame_number": 490,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            774,
+            0,
+            1132,
+            228
+        ]
+    },
+    {
+        "frame_number": 491,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            756,
+            0,
+            1126,
+            226
+        ]
+    },
+    {
+        "frame_number": 492,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8600000143051147,
+        "bbox": [
+            734,
+            0,
+            1131,
+            236
+        ]
+    },
+    {
+        "frame_number": 493,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8199999928474426,
+        "bbox": [
+            722,
+            0,
+            1114,
+            247
+        ]
+    },
+    {
+        "frame_number": 494,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7300000190734863,
+        "bbox": [
+            732,
+            0,
+            1100,
+            255
+        ]
+    },
+    {
+        "frame_number": 495,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.699999988079071,
+        "bbox": [
+            734,
+            0,
+            1105,
+            251
+        ]
+    },
+    {
+        "frame_number": 496,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.75,
+        "bbox": [
+            670,
+            0,
+            1099,
+            257
+        ]
+    },
+    {
+        "frame_number": 497,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8299999833106995,
+        "bbox": [
+            697,
+            0,
+            1069,
+            267
+        ]
+    },
+    {
+        "frame_number": 498,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8100000023841858,
+        "bbox": [
+            685,
+            0,
+            1071,
+            265
+        ]
+    },
+    {
+        "frame_number": 499,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7699999809265137,
+        "bbox": [
+            691,
+            0,
+            1058,
+            261
+        ]
+    },
+    {
+        "frame_number": 502,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.75,
+        "bbox": [
+            705,
+            0,
+            1071,
+            261
+        ]
+    },
+    {
+        "frame_number": 503,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            697,
+            0,
+            1078,
+            275
+        ]
+    },
+    {
+        "frame_number": 504,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            669,
+            0,
+            1064,
+            281
+        ]
+    },
+    {
+        "frame_number": 504,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7400000095367432,
+        "bbox": [
+            323,
+            159,
+            582,
+            360
+        ]
+    },
+    {
+        "frame_number": 505,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            330,
+            151,
+            570,
+            354
+        ]
+    },
+    {
+        "frame_number": 505,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8199999928474426,
+        "bbox": [
+            657,
+            0,
+            1038,
+            269
+        ]
+    },
+    {
+        "frame_number": 506,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8700000047683716,
+        "bbox": [
+            641,
+            0,
+            1012,
+            272
+        ]
+    },
+    {
+        "frame_number": 506,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            328,
+            150,
+            512,
+            351
+        ]
+    },
+    {
+        "frame_number": 507,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            632,
+            0,
+            962,
+            274
+        ]
+    },
+    {
+        "frame_number": 507,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8399999737739563,
+        "bbox": [
+            311,
+            143,
+            500,
+            352
+        ]
+    },
+    {
+        "frame_number": 508,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            621,
+            0,
+            946,
+            273
+        ]
+    },
+    {
+        "frame_number": 508,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8299999833106995,
+        "bbox": [
+            298,
+            139,
+            495,
+            356
+        ]
+    },
+    {
+        "frame_number": 509,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            636,
+            0,
+            937,
+            267
+        ]
+    },
+    {
+        "frame_number": 509,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8100000023841858,
+        "bbox": [
+            301,
+            139,
+            487,
+            354
+        ]
+    },
+    {
+        "frame_number": 510,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8999999761581421,
+        "bbox": [
+            630,
+            0,
+            931,
+            261
+        ]
+    },
+    {
+        "frame_number": 511,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            622,
+            0,
+            930,
+            261
+        ]
+    },
+    {
+        "frame_number": 511,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.75,
+        "bbox": [
+            291,
+            152,
+            478,
+            366
+        ]
+    },
+    {
+        "frame_number": 512,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            621,
+            0,
+            952,
+            263
+        ]
+    },
+    {
+        "frame_number": 512,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7900000214576721,
+        "bbox": [
+            290,
+            160,
+            468,
+            362
+        ]
+    },
+    {
+        "frame_number": 513,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            621,
+            0,
+            918,
+            260
+        ]
+    },
+    {
+        "frame_number": 514,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            622,
+            0,
+            895,
+            261
+        ]
+    },
+    {
+        "frame_number": 515,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            624,
+            0,
+            891,
+            255
+        ]
+    },
+    {
+        "frame_number": 516,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9200000166893005,
+        "bbox": [
+            629,
+            0,
+            892,
+            243
+        ]
+    },
+    {
+        "frame_number": 517,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8399999737739563,
+        "bbox": [
+            617,
+            0,
+            894,
+            254
+        ]
+    },
+    {
+        "frame_number": 522,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.699999988079071,
+        "bbox": [
+            871,
+            0,
+            1144,
+            230
+        ]
+    },
+    {
+        "frame_number": 524,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7599999904632568,
+        "bbox": [
+            631,
+            0,
+            856,
+            297
+        ]
+    },
+    {
+        "frame_number": 525,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7699999809265137,
+        "bbox": [
+            631,
+            4,
+            868,
+            297
+        ]
+    },
+    {
+        "frame_number": 531,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8299999833106995,
+        "bbox": [
+            583,
+            58,
+            770,
+            342
+        ]
+    },
+    {
+        "frame_number": 531,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7400000095367432,
+        "bbox": [
+            202,
+            173,
+            402,
+            378
+        ]
+    },
+    {
+        "frame_number": 532,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8299999833106995,
+        "bbox": [
+            198,
+            174,
+            394,
+            377
+        ]
+    },
+    {
+        "frame_number": 533,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8399999737739563,
+        "bbox": [
+            195,
+            170,
+            379,
+            375
+        ]
+    },
+    {
+        "frame_number": 534,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            194,
+            170,
+            384,
+            377
+        ]
+    },
+    {
+        "frame_number": 534,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7699999809265137,
+        "bbox": [
+            571,
+            68,
+            749,
+            356
+        ]
+    },
+    {
+        "frame_number": 535,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8700000047683716,
+        "bbox": [
+            194,
+            171,
+            380,
+            374
+        ]
+    },
+    {
+        "frame_number": 536,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8700000047683716,
+        "bbox": [
+            194,
+            168,
+            373,
+            380
+        ]
+    },
+    {
+        "frame_number": 536,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.800000011920929,
+        "bbox": [
+            569,
+            73,
+            739,
+            363
+        ]
+    },
+    {
+        "frame_number": 537,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8700000047683716,
+        "bbox": [
+            195,
+            172,
+            375,
+            375
+        ]
+    },
+    {
+        "frame_number": 537,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7200000286102295,
+        "bbox": [
+            527,
+            79,
+            738,
+            365
+        ]
+    },
+    {
+        "frame_number": 538,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            197,
+            170,
+            362,
+            377
+        ]
+    },
+    {
+        "frame_number": 538,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7200000286102295,
+        "bbox": [
+            496,
+            84,
+            743,
+            375
+        ]
+    },
+    {
+        "frame_number": 539,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            195,
+            178,
+            355,
+            380
+        ]
+    },
+    {
+        "frame_number": 539,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8299999833106995,
+        "bbox": [
+            491,
+            91,
+            746,
+            371
+        ]
+    },
+    {
+        "frame_number": 540,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8600000143051147,
+        "bbox": [
+            193,
+            175,
+            355,
+            377
+        ]
+    },
+    {
+        "frame_number": 540,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8100000023841858,
+        "bbox": [
+            506,
+            94,
+            740,
+            371
+        ]
+    },
+    {
+        "frame_number": 541,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8600000143051147,
+        "bbox": [
+            192,
+            168,
+            359,
+            379
+        ]
+    },
+    {
+        "frame_number": 541,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7400000095367432,
+        "bbox": [
+            487,
+            93,
+            757,
+            370
+        ]
+    },
+    {
+        "frame_number": 542,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            189,
+            157,
+            358,
+            380
+        ]
+    },
+    {
+        "frame_number": 543,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            195,
+            153,
+            352,
+            377
+        ]
+    },
+    {
+        "frame_number": 544,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            203,
+            149,
+            358,
+            378
+        ]
+    },
+    {
+        "frame_number": 544,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.7200000286102295,
+        "bbox": [
+            292,
+            49,
+            375,
+            115
+        ]
+    },
+    {
+        "frame_number": 545,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8600000143051147,
+        "bbox": [
+            200,
+            148,
+            349,
+            382
+        ]
+    },
+    {
+        "frame_number": 546,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8600000143051147,
+        "bbox": [
+            197,
+            148,
+            340,
+            381
+        ]
+    },
+    {
+        "frame_number": 548,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.7799999713897705,
+        "bbox": [
+            377,
+            4,
+            499,
+            88
+        ]
+    },
+    {
+        "frame_number": 548,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7799999713897705,
+        "bbox": [
+            162,
+            142,
+            343,
+            387
+        ]
+    },
+    {
+        "frame_number": 549,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8700000047683716,
+        "bbox": [
+            166,
+            142,
+            336,
+            378
+        ]
+    },
+    {
+        "frame_number": 549,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.7599999904632568,
+        "bbox": [
+            369,
+            2,
+            491,
+            83
+        ]
+    },
+    {
+        "frame_number": 550,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7300000190734863,
+        "bbox": [
+            161,
+            142,
+            382,
+            384
+        ]
+    },
+    {
+        "frame_number": 551,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.699999988079071,
+        "bbox": [
+            349,
+            0,
+            470,
+            66
+        ]
+    },
+    {
+        "frame_number": 552,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.75,
+        "bbox": [
+            345,
+            0,
+            464,
+            53
+        ]
+    },
+    {
+        "frame_number": 553,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.7400000095367432,
+        "bbox": [
+            344,
+            0,
+            465,
+            38
+        ]
+    },
+    {
+        "frame_number": 562,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7300000190734863,
+        "bbox": [
+            66,
+            92,
+            221,
+            351
+        ]
+    },
+    {
+        "frame_number": 563,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8600000143051147,
+        "bbox": [
+            55,
+            92,
+            215,
+            334
+        ]
+    },
+    {
+        "frame_number": 564,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8999999761581421,
+        "bbox": [
+            38,
+            87,
+            209,
+            313
+        ]
+    },
+    {
+        "frame_number": 564,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.75,
+        "bbox": [
+            321,
+            0,
+            665,
+            254
+        ]
+    },
+    {
+        "frame_number": 565,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8700000047683716,
+        "bbox": [
+            30,
+            75,
+            201,
+            312
+        ]
+    },
+    {
+        "frame_number": 566,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            24,
+            72,
+            195,
+            305
+        ]
+    },
+    {
+        "frame_number": 566,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8299999833106995,
+        "bbox": [
+            434,
+            0,
+            654,
+            239
+        ]
+    },
+    {
+        "frame_number": 567,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            433,
+            0,
+            652,
+            263
+        ]
+    },
+    {
+        "frame_number": 567,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8700000047683716,
+        "bbox": [
+            21,
+            70,
+            195,
+            308
+        ]
+    },
+    {
+        "frame_number": 568,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9300000071525574,
+        "bbox": [
+            433,
+            0,
+            661,
+            256
+        ]
+    },
+    {
+        "frame_number": 568,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            20,
+            67,
+            193,
+            312
+        ]
+    },
+    {
+        "frame_number": 569,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9200000166893005,
+        "bbox": [
+            431,
+            0,
+            665,
+            259
+        ]
+    },
+    {
+        "frame_number": 569,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            15,
+            65,
+            194,
+            318
+        ]
+    },
+    {
+        "frame_number": 570,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            419,
+            0,
+            668,
+            258
+        ]
+    },
+    {
+        "frame_number": 570,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            14,
+            66,
+            192,
+            322
+        ]
+    },
+    {
+        "frame_number": 571,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            413,
+            0,
+            662,
+            264
+        ]
+    },
+    {
+        "frame_number": 571,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            5,
+            68,
+            187,
+            329
+        ]
+    },
+    {
+        "frame_number": 572,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            7,
+            77,
+            193,
+            361
+        ]
+    },
+    {
+        "frame_number": 572,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7099999785423279,
+        "bbox": [
+            409,
+            0,
+            662,
+            254
+        ]
+    },
+    {
+        "frame_number": 573,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7900000214576721,
+        "bbox": [
+            17,
+            80,
+            192,
+            309
+        ]
+    },
+    {
+        "frame_number": 573,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7699999809265137,
+        "bbox": [
+            411,
+            0,
+            656,
+            243
+        ]
+    },
+    {
+        "frame_number": 574,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8600000143051147,
+        "bbox": [
+            396,
+            0,
+            660,
+            237
+        ]
+    },
+    {
+        "frame_number": 574,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8299999833106995,
+        "bbox": [
+            16,
+            84,
+            183,
+            308
+        ]
+    },
+    {
+        "frame_number": 575,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            396,
+            0,
+            664,
+            237
+        ]
+    },
+    {
+        "frame_number": 575,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8299999833106995,
+        "bbox": [
+            13,
+            88,
+            184,
+            317
+        ]
+    },
+    {
+        "frame_number": 575,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.7400000095367432,
+        "bbox": [
+            111,
+            0,
+            187,
+            40
+        ]
+    },
+    {
+        "frame_number": 576,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8999999761581421,
+        "bbox": [
+            411,
+            0,
+            670,
+            233
+        ]
+    },
+    {
+        "frame_number": 576,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.800000011920929,
+        "bbox": [
+            8,
+            93,
+            183,
+            306
+        ]
+    },
+    {
+        "frame_number": 576,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.75,
+        "bbox": [
+            110,
+            0,
+            183,
+            39
+        ]
+    },
+    {
+        "frame_number": 577,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9200000166893005,
+        "bbox": [
+            419,
+            0,
+            673,
+            236
+        ]
+    },
+    {
+        "frame_number": 577,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            2,
+            96,
+            173,
+            334
+        ]
+    },
+    {
+        "frame_number": 577,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.7099999785423279,
+        "bbox": [
+            117,
+            0,
+            180,
+            37
+        ]
+    },
+    {
+        "frame_number": 578,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            426,
+            0,
+            680,
+            240
+        ]
+    },
+    {
+        "frame_number": 578,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8600000143051147,
+        "bbox": [
+            4,
+            97,
+            171,
+            337
+        ]
+    },
+    {
+        "frame_number": 578,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.7400000095367432,
+        "bbox": [
+            115,
+            0,
+            176,
+            39
+        ]
+    },
+    {
+        "frame_number": 579,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8600000143051147,
+        "bbox": [
+            439,
+            0,
+            700,
+            239
+        ]
+    },
+    {
+        "frame_number": 579,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8100000023841858,
+        "bbox": [
+            14,
+            98,
+            174,
+            335
+        ]
+    },
+    {
+        "frame_number": 579,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.7300000190734863,
+        "bbox": [
+            114,
+            0,
+            172,
+            45
+        ]
+    },
+    {
+        "frame_number": 580,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            446,
+            0,
+            700,
+            247
+        ]
+    },
+    {
+        "frame_number": 580,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8100000023841858,
+        "bbox": [
+            10,
+            99,
+            169,
+            342
+        ]
+    },
+    {
+        "frame_number": 581,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8299999833106995,
+        "bbox": [
+            459,
+            0,
+            709,
+            242
+        ]
+    },
+    {
+        "frame_number": 581,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8199999928474426,
+        "bbox": [
+            2,
+            100,
+            172,
+            336
+        ]
+    },
+    {
+        "frame_number": 582,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8899999856948853,
+        "bbox": [
+            476,
+            0,
+            726,
+            249
+        ]
+    },
+    {
+        "frame_number": 582,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.800000011920929,
+        "bbox": [
+            10,
+            101,
+            176,
+            334
+        ]
+    },
+    {
+        "frame_number": 583,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8600000143051147,
+        "bbox": [
+            485,
+            0,
+            748,
+            268
+        ]
+    },
+    {
+        "frame_number": 583,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7900000214576721,
+        "bbox": [
+            12,
+            105,
+            183,
+            344
+        ]
+    },
+    {
+        "frame_number": 584,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8299999833106995,
+        "bbox": [
+            4,
+            114,
+            175,
+            328
+        ]
+    },
+    {
+        "frame_number": 584,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7699999809265137,
+        "bbox": [
+            527,
+            0,
+            887,
+            313
+        ]
+    },
+    {
+        "frame_number": 585,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8199999928474426,
+        "bbox": [
+            1,
+            114,
+            170,
+            336
+        ]
+    },
+    {
+        "frame_number": 586,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7400000095367432,
+        "bbox": [
+            0,
+            115,
+            172,
+            340
+        ]
+    },
+    {
+        "frame_number": 591,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            644,
+            0,
+            1051,
+            212
+        ]
+    },
+    {
+        "frame_number": 592,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            655,
+            0,
+            1054,
+            217
+        ]
+    },
+    {
+        "frame_number": 593,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8999999761581421,
+        "bbox": [
+            677,
+            0,
+            1018,
+            221
+        ]
+    },
+    {
+        "frame_number": 594,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8299999833106995,
+        "bbox": [
+            704,
+            0,
+            1046,
+            226
+        ]
+    },
+    {
+        "frame_number": 595,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            729,
+            0,
+            1052,
+            233
+        ]
+    },
+    {
+        "frame_number": 595,
+        "violation_type": "NO-Hardhat",
+        "confidence": 0.7300000190734863,
+        "bbox": [
+            112,
+            0,
+            196,
+            58
+        ]
+    },
+    {
+        "frame_number": 596,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            751,
+            0,
+            1067,
+            242
+        ]
+    },
+    {
+        "frame_number": 597,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8999999761581421,
+        "bbox": [
+            770,
+            0,
+            1085,
+            240
+        ]
+    },
+    {
+        "frame_number": 597,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7300000190734863,
+        "bbox": [
+            3,
+            121,
+            173,
+            373
+        ]
+    },
+    {
+        "frame_number": 598,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8999999761581421,
+        "bbox": [
+            770,
+            0,
+            1086,
+            240
+        ]
+    },
+    {
+        "frame_number": 598,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.75,
+        "bbox": [
+            2,
+            122,
+            171,
+            373
+        ]
+    },
+    {
+        "frame_number": 599,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8999999761581421,
+        "bbox": [
+            796,
+            0,
+            1113,
+            266
+        ]
+    },
+    {
+        "frame_number": 599,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7599999904632568,
+        "bbox": [
+            22,
+            131,
+            194,
+            365
+        ]
+    },
+    {
+        "frame_number": 600,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8999999761581421,
+        "bbox": [
+            811,
+            0,
+            1140,
+            263
+        ]
+    },
+    {
+        "frame_number": 600,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7400000095367432,
+        "bbox": [
+            22,
+            134,
+            199,
+            369
+        ]
+    },
+    {
+        "frame_number": 601,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            834,
+            0,
+            1141,
+            273
+        ]
+    },
+    {
+        "frame_number": 602,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            851,
+            0,
+            1161,
+            267
+        ]
+    },
+    {
+        "frame_number": 603,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9300000071525574,
+        "bbox": [
+            861,
+            0,
+            1170,
+            250
+        ]
+    },
+    {
+        "frame_number": 604,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8999999761581421,
+        "bbox": [
+            873,
+            0,
+            1177,
+            243
+        ]
+    },
+    {
+        "frame_number": 605,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            880,
+            0,
+            1212,
+            239
+        ]
+    },
+    {
+        "frame_number": 606,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8399999737739563,
+        "bbox": [
+            899,
+            0,
+            1205,
+            240
+        ]
+    },
+    {
+        "frame_number": 607,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.9100000262260437,
+        "bbox": [
+            928,
+            0,
+            1213,
+            244
+        ]
+    },
+    {
+        "frame_number": 608,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8100000023841858,
+        "bbox": [
+            943,
+            0,
+            1237,
+            248
+        ]
+    },
+    {
+        "frame_number": 609,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8700000047683716,
+        "bbox": [
+            970,
+            0,
+            1254,
+            259
+        ]
+    },
+    {
+        "frame_number": 610,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8299999833106995,
+        "bbox": [
+            982,
+            0,
+            1260,
+            261
+        ]
+    },
+    {
+        "frame_number": 611,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8700000047683716,
+        "bbox": [
+            1002,
+            0,
+            1274,
+            265
+        ]
+    },
+    {
+        "frame_number": 612,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8600000143051147,
+        "bbox": [
+            1016,
+            0,
+            1263,
+            262
+        ]
+    },
+    {
+        "frame_number": 613,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8399999737739563,
+        "bbox": [
+            1041,
+            0,
+            1242,
+            267
+        ]
+    },
+    {
+        "frame_number": 614,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8700000047683716,
+        "bbox": [
+            1057,
+            0,
+            1270,
+            289
+        ]
+    },
+    {
+        "frame_number": 615,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8100000023841858,
+        "bbox": [
+            1076,
+            0,
+            1275,
+            260
+        ]
+    },
+    {
+        "frame_number": 616,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8600000143051147,
+        "bbox": [
+            1084,
+            0,
+            1277,
+            254
+        ]
+    },
+    {
+        "frame_number": 617,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8799999952316284,
+        "bbox": [
+            1082,
+            0,
+            1278,
+            279
+        ]
+    },
+    {
+        "frame_number": 618,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8299999833106995,
+        "bbox": [
+            1084,
+            0,
+            1277,
+            269
+        ]
+    },
+    {
+        "frame_number": 619,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7599999904632568,
+        "bbox": [
+            1091,
+            0,
+            1279,
+            258
+        ]
+    },
+    {
+        "frame_number": 620,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8100000023841858,
+        "bbox": [
+            1085,
+            0,
+            1279,
+            279
+        ]
+    },
+    {
+        "frame_number": 621,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8500000238418579,
+        "bbox": [
+            1085,
+            0,
+            1279,
+            273
+        ]
+    },
+    {
+        "frame_number": 622,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8600000143051147,
+        "bbox": [
+            1081,
+            0,
+            1279,
+            271
+        ]
+    },
+    {
+        "frame_number": 623,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8199999928474426,
+        "bbox": [
+            1076,
+            0,
+            1273,
+            260
+        ]
+    },
+    {
+        "frame_number": 624,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7400000095367432,
+        "bbox": [
+            1072,
+            0,
+            1272,
+            255
+        ]
+    },
+    {
+        "frame_number": 631,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7599999904632568,
+        "bbox": [
+            992,
+            1,
+            1255,
+            251
+        ]
+    },
+    {
+        "frame_number": 639,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7400000095367432,
+        "bbox": [
+            241,
+            92,
+            449,
+            337
+        ]
+    },
+    {
+        "frame_number": 645,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7799999713897705,
+        "bbox": [
+            243,
+            79,
+            477,
+            332
+        ]
+    },
+    {
+        "frame_number": 656,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7699999809265137,
+        "bbox": [
+            315,
+            118,
+            536,
+            333
+        ]
+    },
+    {
+        "frame_number": 657,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8100000023841858,
+        "bbox": [
+            307,
+            116,
+            544,
+            336
+        ]
+    },
+    {
+        "frame_number": 673,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7300000190734863,
+        "bbox": [
+            698,
+            0,
+            878,
+            154
+        ]
+    },
+    {
+        "frame_number": 674,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.699999988079071,
+        "bbox": [
+            703,
+            0,
+            888,
+            152
+        ]
+    },
+    {
+        "frame_number": 675,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7400000095367432,
+        "bbox": [
+            701,
+            0,
+            888,
+            153
+        ]
+    },
+    {
+        "frame_number": 677,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.75,
+        "bbox": [
+            1056,
+            0,
+            1275,
+            304
+        ]
+    },
+    {
+        "frame_number": 679,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7300000190734863,
+        "bbox": [
+            1076,
+            0,
+            1276,
+            304
+        ]
+    },
+    {
+        "frame_number": 681,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8399999737739563,
+        "bbox": [
+            412,
+            85,
+            681,
+            312
+        ]
+    },
+    {
+        "frame_number": 682,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8299999833106995,
+        "bbox": [
+            429,
+            93,
+            699,
+            319
+        ]
+    },
+    {
+        "frame_number": 683,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8399999737739563,
+        "bbox": [
+            412,
+            100,
+            701,
+            314
+        ]
+    },
+    {
+        "frame_number": 683,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.75,
+        "bbox": [
+            1088,
+            0,
+            1279,
+            288
+        ]
+    },
+    {
+        "frame_number": 684,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8600000143051147,
+        "bbox": [
+            429,
+            104,
+            707,
+            306
+        ]
+    },
+    {
+        "frame_number": 684,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7599999904632568,
+        "bbox": [
+            1078,
+            0,
+            1279,
+            296
+        ]
+    },
+    {
+        "frame_number": 685,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8299999833106995,
+        "bbox": [
+            442,
+            107,
+            710,
+            310
+        ]
+    },
+    {
+        "frame_number": 685,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.75,
+        "bbox": [
+            1101,
+            1,
+            1279,
+            297
+        ]
+    },
+    {
+        "frame_number": 686,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7900000214576721,
+        "bbox": [
+            432,
+            107,
+            733,
+            302
+        ]
+    },
+    {
+        "frame_number": 686,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7699999809265137,
+        "bbox": [
+            1108,
+            0,
+            1279,
+            297
+        ]
+    },
+    {
+        "frame_number": 687,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.8399999737739563,
+        "bbox": [
+            1108,
+            3,
+            1279,
+            306
+        ]
+    },
+    {
+        "frame_number": 687,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.800000011920929,
+        "bbox": [
+            432,
+            102,
+            737,
+            310
+        ]
+    },
+    {
+        "frame_number": 688,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7699999809265137,
+        "bbox": [
+            435,
+            96,
+            748,
+            313
+        ]
+    },
+    {
+        "frame_number": 692,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7699999809265137,
+        "bbox": [
+            1124,
+            10,
+            1279,
+            305
+        ]
+    },
+    {
+        "frame_number": 692,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7400000095367432,
+        "bbox": [
+            480,
+            101,
+            776,
+            324
+        ]
+    },
+    {
+        "frame_number": 693,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7300000190734863,
+        "bbox": [
+            1126,
+            27,
+            1279,
+            302
+        ]
+    },
+    {
+        "frame_number": 693,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7099999785423279,
+        "bbox": [
+            491,
+            103,
+            765,
+            325
+        ]
+    },
+    {
+        "frame_number": 694,
+        "violation_type": "NO-Safety Vest",
+        "confidence": 0.7099999785423279,
+        "bbox": [
+            1140,
+            52,
+            1279,
+            301
+        ]
+    }
+]
