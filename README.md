@@ -36,17 +36,12 @@ pip install opencv-python torch ultralytics numpy streamlit
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/Prathamshenoy28/Safety-Violation.git
    ```
 
-2. Navigate to the project directory:
-   ```bash
-   cd your-repository-name
-   ```
+2. Place your trained YOLOv8 model (in `.onnx` format) in the appropriate directory (`C:/Users/HP/Downloads/your_output_directory2/runs/detect/yolov8s_ppe_css_50_epochs/weights/best.onnx`) or update the path in the script.
 
-3. Place your trained YOLOv8 model (in `.onnx` format) in the appropriate directory (`C:/Users/HP/Downloads/your_output_directory2/runs/detect/yolov8s_ppe_css_50_epochs/weights/best.onnx`) or update the path in the script.
-
-4. Place your input video in the correct directory (`C:/Users/HP/Downloads/your_output_directory2/videoeg/example_video.mp4`) or update the video path in the script.
+3. Place your input video in the correct directory (`C:/Users/HP/Downloads/your_output_directory2/videoeg/example_video.mp4`) or update the video path in the script.
 
 ## Running the Script
 
